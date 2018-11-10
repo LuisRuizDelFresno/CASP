@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>Esta plantilla debería citarse como:
+Cabello López, J.B. Plantilla para ayudarte a entender una Evaluación Económica. En: CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica. Alicante: CASPe; 2005. Cuaderno I. p.31-35.</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+      Hay tres aspectos generales a tener en cuenta cuando se hace la lectura crítica de una evaluación económica:
+      ¿Es válida esta evaluación económica?
+      ¿Cómo se evalúan y comparan los costes y las consecuencias?
+      ¿Ayudarán los resultados a la compra de servicios para nuestra población?
+- Las 11 preguntas de las siguientes páginas están diseñadas para ayudarte a pensar sobre estos aspectos de modo sistemático.
+- Las primeras dos preguntas son de eliminación y pueden ser respondidas rápidamente. Si la respuesta a las dos es sí, entonces vale la pena continuar con las preguntas restantes. Existe un cierto grado de solapamiento entre algunas de las preguntas. En la mayoría de ellas se te pide que respondas sí, no o no sé.
+ En cursiva y debajo de las preguntas encontrarás una serie de pistas para contestar a las mismas. Están pensadas para recordarte por qué la pregunta es importante. ¡En los pequeños grupos no suele haber tiempo para responder a todo con detalle!
+ Las 11 preguntas están adaptadas de: Drummond MF, Stoddart GL, Torrance GW. Methods for the economic evaluation of health care programmes. Oxford: Oxford University Press, 1987.</string>
+	<key>pagina1Marca</key>
+	<string>Estos materiales han sido desarrollados por CASP* Oxford y adaptados por CASP España (CASPe), Vitoria, Álava, 1999.
+* CASP (Critical Appraisal Skills Programme: Programa de habilidades en lectura crítica)</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia sobre la eficacia clínica</string>
+	<key>pagina1TipoArt</key>
+	<string>11 preguntas para entender una evaluación económica</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Es válida esta evaluación?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿Está bien definida la pregunta u objetivo de la evaluación?</string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string>La pregunta debe aclarar
+- Cuál es la perspectiva del análisis. 
+- Si es una evaluación económica completa (compara costes y efectos) o incompleta.
+- Si se evalúa una sola opción o se comparan varias alternativas. 
+- Cuál es el horizonte temporal.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. ¿Existe una descripción suficiente de todas las alternativas posibles y sus consecuencias?</string>
+					<key>literalC</key>
+					<string>2. ¿Proceso bien descrito?</string>
+					<key>pista</key>
+					<string>- ¿Se define bien el árbol de decisión (o
+equivalente) de las actuaciones a
+seguir?
+- ¿Se describe la intervención o
+intervenciones, quién hará, a quién se aplica, dónde y con qué frecuencia?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Cómo se evalúan costes y consecuencias</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿Existen pruebas de la efectividad, de la intervención o del programa evaluado?</string>
+					<key>literalC</key>
+					<string>3. ¿Efectividad ya estudiada?</string>
+					<key>pista</key>
+					<string>- La efectividad puede probarse a partir
+de ensayos clínicos, a partir de investigación de síntesis (revisiones sistemáticas) o a partir de otros tipos de estudios.
+- Frecuentemente, las evaluaciones económicas han de integrar diversos tipos de conocimiento a partir de distintos tipos de estudios.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Cómo se evalúan costes y consecuencias</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿Los	efectos	de	la	intervención	(o intervenciones) se identifican, se miden y se valoran o consideran adecuadamente?</string>
+					<key>literalC</key>
+					<string>4. ¿Efectos bien medidos?</string>
+					<key>pista</key>
+					<string>- Los efectos pueden ser simples (control
+adecuado de la TA) o alternativamente puede utilizarse lo que se denomina el “constructo efecto”, que consiste en agrupar varias medidas del efecto en una sola; posteriormente medirlo de modo adecuado y realizar un juicio de valor sobre su calidad.
+- Los efectos se miden en unidades naturales (años de vida), unidades más complejas (años ajustados por calidad QALYs) o traslaciones de éstas a unidades económicas.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Cómo se evalúan costes y consecuencias</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. ¿Los costes en que se incurre por la intervención (intervenciones) se identifican, se miden y se valoran adecuadamente?</string>
+					<key>literalC</key>
+					<string>5. ¿Costes bien medidos?</string>
+					<key>pista</key>
+					<string>- Habitualmente deben identificarse los
+recursos necesarios (medicamentos, de enfermería y cuidados, etc.) medirlos en unidades adecuadas y calcular el precio de estas unidades. Idealmente se deben documentar estos recursos por separado.
+- Los costes se definen de diferentes modos (directos médicos o no, indirectos, intangibles etc.) y pueden medirse o estimarse de diferentes modos.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Cómo se evalúan costes y consecuencias</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. ¿Se aplican tasas de descuento a los costes de la intervención/es? ¿y a los efectos?</string>
+					<key>literalC</key>
+					<string>6. ¿Descuento en efecto/coste?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cómo son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>sustituir por: ¿resultado útil? o permitir que el usuario introduzca valores que guarde al salir</string>
+					<key>literal</key>
+					<string>7. ¿Cuáles son los resultados de la evaluación?</string>
+					<key>literalC</key>
+					<string>7. ¿Resultado importante?</string>
+					<key>pista</key>
+					<string>- Qué unidades usan (coste año vida,
+coste QALY, beneficio neto).
+- Los resultados idealmente deben ser
+consecuencia de un análisis incremental: se relacionan los costes incrementales (los generados por el uso de una alternativa en vez de la otra) con los efectos utilidades o beneficios.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. ¿Se realizó un análisis adecuado de sensibilidad?</string>
+					<key>literalC</key>
+					<string>8. ¿Análisis de sensibilidad?</string>
+					<key>pista</key>
+					<string>- Es decir, cuánto cambiaría el resultado
+si en un modelo cambiamos variables relacionadas con los costes o con la efectividad o con otras circunstancias de uso.
+- ¿Cambiaron todas las variables sobre las que existe una incertidumbre importante?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ ¿Ayudarán los resultados a la compra o implantación de servicios para nuestra población o nuestros pacientes?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. ¿Sería el programa igualmente efectivo en tu medio?</string>
+					<key>literalC</key>
+					<string>9. ¿Misma efectividad?</string>
+					<key>pista</key>
+					<string>- Considera si la perspectiva utilizada es
+la adecuada y aplicable a tu contexto.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Serían los costes trasladables a tu medio?</string>
+					<key>literalC</key>
+					<string>10. ¿Mismos costes?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. ¿Vale la pena aplicarlos a tu medio?</string>
+					<key>literalC</key>
+					<string>11. ¿Útil en tu medio?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

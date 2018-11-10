@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string></string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+ - Hay tres aspectos generales a tener en cuenta cuando se hace lectura crítica de un estudio de Casos y Controles:
+      ¿Son válidos los resultados del estudio? ¿Cuáles son los resultados?
+      ¿Pueden aplicarse en tu medio?
+Las 11 preguntas contenidas en las siguientes páginas están diseñadas para ayudarte a pensar sistemáticamente sobre estos temas.
+- Las dos primeras preguntas son “de eliminación” y pueden contestarse rápidamente. Sólo si la respuesta a estas dos preguntas es afirmativa, merece la pena continuar con las restantes.
+- Hay un cierto grado de solapamiento entre algunas de las preguntas.
+- En la mayoría de las preguntas se te pide que respondas “sí”, “no” o “no sé”.
+- En itálica y debajo de las preguntas encontrarás una serie de pistas para contestar a las preguntas. Están pensadas para recordarte por qué la pregunta es importante. ¡En los pequeños grupos no suele haber tiempo para responder a todo con detalle!</string>
+	<key>pagina1Marca</key>
+	<string>Este material ha sido desarrollado por CASP* España a partir de los trabajos preliminares realizados por CASP Noruega.
+* CASP (Critical Appraisal Skills Programme: Programa de habilidades en lectura crítica)</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia sobre la eficacia clínica</string>
+	<key>pagina1TipoArt</key>
+	<string>11 preguntas para ayudarte a entender un estudio de Casos y Controles</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Son válidos los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿El estudio se centra en un tema claramente definido?</string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string> Una pregunta se puede definir en términos de
+- La población estudiada.
+- Los factores de riesgo estudiados.
+- Si el estudio intentó detectar un efecto
+beneficioso o perjudicial.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Pregunta imprecisa: ¿diseño? mejor que método</string>
+					<key>literal</key>
+					<string>2. ¿Los autores han utilizado un método apropiado para responder a la pregunta?</string>
+					<key>literalC</key>
+					<string>2. ¿Casos-Controles es lo ideal?</string>
+					<key>pista</key>
+					<string> Considerar
+- ¿Es el estudio de Casos y Controles una forma adecuada para contestar la pregunta en estas circunstancias? (¿Es el resultado a estudio raro o perjudicial?).
+- ¿El estudio está dirigido a contestar la pregunta?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿Los casos se reclutaron/incluyeron de una forma aceptable?</string>
+					<key>literalC</key>
+					<string>3. ¿Casos bien seleccionados?</string>
+					<key>pista</key>
+					<string> Se trata de buscar sesgo de selección que pueda comprometer la validez de los hallazgos
+- ¿Los casos se han definido de forma precisa?
+- ¿Los casos son representativos de una población definida (geográfica y/o temporalmente)?
+- ¿Se estableció un sistema fiable para la selección de todos los casos?
+- ¿Son incidencia o prevalencia?
+- ¿Hay algo “especial” que afecta a los casos?
+- ¿El marco temporal del estudio es relevante en relación a la enfermedad/exposición?
+- ¿Se seleccionó un número suficiente de casos?
+- ¿Tiene potencia estadística?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿Los controles se seleccionaron de una manera aceptable?</string>
+					<key>literalC</key>
+					<string>4. ¿Controles bien escogidos?</string>
+					<key>pista</key>
+					<string> Se trata de buscar sesgo de selección que pueda comprometer la
+generalizabilidad de los hallazgos.
+- ¿Los controles son representativos de una población definida (geográfica y/o temporalmente)?
+- ¿Hay algo “especial” que afecta a los controles?
+- ¿Hay muchos no respondedores? ¿Podrían ser los no respondedores de alguna manera diferentes al resto?
+- ¿Han sido seleccionados de forma aleatorizada, basados en una población?
+- ¿Se seleccionó un número suficiente de controles?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. ¿La exposición se midió de forma precisa con el fin de minimizar posibles sesgos?</string>
+					<key>literalC</key>
+					<string>5. ¿Exposición bien medida?</string>
+					<key>pista</key>
+					<string> Estamos buscando sesgos de medida, retirada o de clasificación:
+- ¿Se definió la exposición claramente y se midió ésta de forma precisa?
+- ¿Los autores utilizaron variables objetivas o subjetivas?
+- ¿Las variables reflejan de forma adecuada aquello que se suponen que tiene que medir? (han sido validadas).
+- ¿Los métodos de medida fueron similares tanto en los casos como en los controles?
+- ¿Cuando fue posible, se utilizó en el estudio cegamiento?
+- ¿La relación temporal es correcta (la exposición de interés precede al resultado/variable de medida)?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. A. ¿Qué factores de confusión han tenido en cuenta los autores? y B. ¿Los han tenido en cuenta el diseño y/o análisis?</string>
+					<key>literalC</key>
+					<string>6. ¿Control de F de Confusión?</string>
+					<key>pista</key>
+					<string>- Haz una lista de los factores que piensas que son importantes y que los autores han omitido (genéticos, ambientales, socioeconómicos).
+- Busca restricciones en el diseño y técnica, por ejemplo, análisis de modelización, estratificación, regresión o de sensibilidad para corregir, controlar o ajustar los factores de confusión.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cómo son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. ¿Cuáles son los resultados?</string>
+					<key>literalC</key>
+					<string>7. ¿Resultado importante?</string>
+					<key>pista</key>
+					<string>- ¿Cuáles son los resultados netos?
+- ¿El análisis es apropiado para su
+diseño?
+- ¿Cuán fuerte es la relación de
+asociación entre la exposición y el
+resultado (mira los odds ratio (OR))?
+- ¿Los resultados se han ajustado a los posibles factores de confusión y, aun
+así, podrían estos factores explicar la
+asociación?
+- ¿Los ajustes han modificado de forma
+sustancial los OR?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. ¿Cuál es la precisión de los resultados?</string>
+					<key>literalC</key>
+					<string>8. ¿Resultados precisos?</string>
+					<key>pista</key>
+					<string>- Tamaño del valor de p.
+- Tamaño de los intervalos de confianza.
+- ¿Los autores han considerado todas las
+variables importantes?
+- ¿Cuál fue el efecto de los individuos que
+rechazaron el participar en la evaluación?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Imprecisa: ¿se busca una impresión global? ¿se busca si tienen plausibilidad biológica? </string>
+					<key>literal</key>
+					<string>9. ¿Te crees los resultados?</string>
+					<key>literalC</key>
+					<string>9. ¿Resultados lógicos?</string>
+					<key>pista</key>
+					<string>- ¡Un efecto grande es difícil de ignorar!
+- ¿Puede deberse al azar, sesgo o
+confusión?
+- ¿El diseño y los métodos de este estudio
+son lo suficientemente defectuosos para hacer que los resultados sean poco creíbles?
+- Considera los criterios de Bradford Hills (por ejemplo, secuencia temporal, gradiente dosis-respuesta, fortaleza de asociación, verosimilitud biológica).</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ ¿Son los resultados aplicables a tu medio?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Se pueden aplicar los resultados a tu medio?</string>
+					<key>literalC</key>
+					<string>10. ¿Es aplicable en tu medio?</string>
+					<key>pista</key>
+					<string> Considera si
+- Los pacientes cubiertos por el estudio pueden ser suficientemente diferentes de los de tu área.
+- Tu medio parece ser muy diferente al del estudio.
+- ¿Puedes estimar los beneficios y perjuicios en tu medio?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>imprecisa, no parece una pregunta de aplicabilidad ¿se busca si los resultados son lógicos biológicamente?</string>
+					<key>literal</key>
+					<string>11. ¿Los resultados de este estudio coinciden con otra evidencia disponible?</string>
+					<key>literalC</key>
+					<string>11. ¿Acorde con otros estudios?</string>
+					<key>pista</key>
+					<string>Considera toda la evidencia disponible: Ensayos Clínicos aleatorizados, Revisiones Sistemáticas, Estudios de Cohorte y Estudios de Casos y Controles, así como su consistencia.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

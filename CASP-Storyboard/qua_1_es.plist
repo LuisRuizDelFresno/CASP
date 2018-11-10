@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>Esta plantilla debería citarse como:
+Cano Arana, A., González Gil, T., Cabello López, J.B. por CASPe. Plantilla para ayudarte a entender un estudio cualitativo. En: CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica. Alicante: CASPe; 2010. Cuaderno III. p.3-8.</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+- Esta herramienta ha sido creada para aquéllos que no estén familiarizados con la investigación cualitativa ni sus perspectivas teóricas. Presenta varias preguntas que tratan, en líneas generales, algunos de los principios o supuestos que caracterizan la investigación cualitativa. No es una guía categórica y se recomienda una lectura más exhaustiva.
+- Se consideran tres aspectos generales para la valoración de la calidad de un estudio cualitativo:
+      Rigor: hace referencia a la congruencia de la metodología utilizada para responder la pregunta de investigación.
+      Credibilidad: hace referencia a la capacidad que tienen los resultados de representar el fenómeno de estudio desde la subjetividad de los participantes.
+      Relevancia: hace referencia a la utilidad de los hallazgos en la práctica (evidencia cualitativa).
+- Las 10 preguntas que se plantean a continuación están diseñadas para ayudarte a pensar sobre estos puntos de forma sistemática.
+- Las dos primeras preguntas se pueden responder rápidamente y son preguntas “de eliminación”. Sólo si la respuesta es “sí” en ambas preguntas, merece la pena continuar con las preguntas restantes.
+- En itálica y debajo de las preguntas, encontrarás una serie de pistas para contestar las mismas. Estas indicaciones están pensadas para recordarte por qué la pregunta es importante. Anota la justificación de tu respuesta en el espacio indicado. ¡En los pequeños grupos no suele haber tiempo para responder todo con detalle!</string>
+	<key>pagina1Marca</key>
+	<string>Este trabajo ha sido financiado en parte por el Instituto de Salud Carlos III, proyecto AE07/0097.</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia de estudios cualitativos</string>
+	<key>pagina1TipoArt</key>
+	<string>10 preguntas para ayudarte a entender un estudio cualitativo</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Son válidos los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿Se definieron de forma clara los objetivos de la investigación?</string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string> Considera
+- ¿Queda implícita/explícita la pregunta de investigación?
+- ¿Se identifica con claridad el objetivo/s de investigación?
+- ¿Se justifica la relevancia de los mismos?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. ¿Es congruente la metodología cualitativa?</string>
+					<key>literalC</key>
+					<string>2. ¿E Cualitativo es lo adecuado?</string>
+					<key>pista</key>
+					<string> Considera
+- Si la investigación pretende explorar las conductas o experiencias subjetivas de los participantes con respecto al fenómeno de estudio.
+- ¿Es apropiada la metodología cualitativa para dar respuesta a los objetivos de investigación planteados?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿El método de investigación es adecuado para alcanzar los objetivos?</string>
+					<key>literalC</key>
+					<string>3. ¿Método bien diseñado?</string>
+					<key>pista</key>
+					<string> Considera
+- Si el investigador hace explícito y justifica el método elegido (p.ej. fenomenología, teoría fundamentada, etnología, etc.).</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿La estrategia de selección de participantes es congruente con la pregunta de investigación y el método utilizado?</string>
+					<key>literalC</key>
+					<string>4. ¿Participantes bien elegidos?</string>
+					<key>pista</key>
+					<string> Considera si
+- Hay alguna explicación relativa a la selección de los participantes.
+- Justifica por qué los participantes seleccionados eran los más adecuados para acceder al tipo de conocimiento que requería el estudio.
+- El investigador explica quién, cómo, dónde se convocó a los participantes del estudio.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. ¿Las técnicas de recogida de datos utilizados son congruentes con la pregunta de investigación y el método utilizado?</string>
+					<key>literalC</key>
+					<string>5. ¿Datos bien recogidos?</string>
+					<key>pista</key>
+					<string> Considera si
+-El ámbito de estudio está justificado. -Si se especifica claramente y justifica la
+técnica de recogida de datos (p. ej. entrevistas, grupos de discusión, observación participante, etc.).
+-Si se detallan aspectos concretos del proceso de recogida de datos (p. ej. elaboración de la guía de entrevista, diseño de los grupos de discusión, proceso de observación).
+- Si se ha modificado la estrategia de recogida de datos a lo largo del estudio y si es así, ¿explica el investigador cómo y por qué?
+- Si se explicita el formato de registro de los datos (p. ej. grabaciones de audio/vídeo, cuaderno de campo, etc.)
+- Si el investigador alcanza la saturación de datos y reflexiona sobre ello.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. ¿Se ha reflexionado sobre la relación entre el investigador y el objeto de investigación (reflexividad)?</string>
+					<key>literalC</key>
+					<string>6. ¿Reflexividad considerada?</string>
+					<key>pista</key>
+					<string>Considera
+- Si el investigador ha examinado de forma crítica su propio rol en el proceso de investigación (el investigador como instrumento de investigación), incluyendo sesgos potenciales:
+          - En la formulación de la pregunta de investigación.
+          - En la recogida de datos, incluida la selección de participantes y la elección del ámbito de estudio.
+          - Si el investigador refleja y justifica los cambios conceptuales (reformulación de la pregunta y objetivos de la investigación) y metodológicos (criterios de inclusión, estrategia de muestreo, técnicas de recogida de datos, etc.).</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. ¿Se han tenido en cuenta los aspectos éticos?</string>
+					<key>literalC</key>
+					<string>7. ¿Ética considerada?</string>
+					<key>pista</key>
+					<string>Considera
+- Si el investigador ha detallado aspectos relacionados con:
+          - El consentimiento informado.
+          - La confidencialidad de los datos.
+          - El manejo de la vulnerabilidad emocional (efectos del estudio sobre los participantes durante y después del mismo como consecuencia de la toma de consciencia de su propia experiencia).
+          - Si se ha solicitado aprobación de un comité ético.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cómo son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. ¿Fue el análisis de datos suficientemente riguroso?</string>
+					<key>literalC</key>
+					<string>8. ¿Análisis adecuado?</string>
+					<key>pista</key>
+					<string> Considera
+- Si hay una descripción detallada del tipo de análisis (de contenido, del discurso, etc.) y del proceso.
+- Si queda claro cómo las categorías o temas emergentes derivaron de los datos.
+- Si se presentan fragmentos originales de discurso significativos (verbatim) para ilustrar los resultados y se referencia su procedencia (p. ej. entrevistado 1, grupo de discusión 3, etc.)
+- Hasta qué punto se han tenido en cuenta en el proceso de análisis los datos contradictorios (casos negativos o casos extremos).
+- Si el investigador ha examinado de forma crítica su propio rol y su subjetividad de análisis.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. ¿Es clara la exposición de los resultados?</string>
+					<key>literalC</key>
+					<string>9. ¿Resultados claros?</string>
+					<key>pista</key>
+					<string>Considera si
+- Los resultados corresponden a la pregunta
+de investigación.
+- Los resultados se exponen de una forma
+detallada, comprensible.
+-Si se comparan o discuten los hallazgos de
+la investigación con los resultados de
+investigaciones previas.
+- Si el investigador justifica estrategias
+llevadas a cabo para asegurar la credibilidad de los resultados (p.ej. triangulación, validación por los participantes del estudio, etc.)
+- Si se reflexiona sobre las limitaciones del estudio.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ ¿Son los resultados aplicables en tu medio?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Son aplicables los resultados de la investigación?</string>
+					<key>literalC</key>
+					<string>10. ¿Aplicable en su medio?</string>
+					<key>pista</key>
+					<string> Considera si
+-El investigador explica la contribución que los resultados aportan al conocimiento existente y a la práctica clínica.
+- Se identifican líneas futuras de investigación.
+-El investigador reflexiona acerca de la transferibilidad de los resultados a otros contextos.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

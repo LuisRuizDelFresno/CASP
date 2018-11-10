@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>Esta plantilla debería citarse como:
+Cabello, J.B. por CASPe. Plantilla para ayudarte a entender Estudios de Cohortes. En: CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica. Alicante: CASPe; 2005. Cuaderno II. p.23-27.</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+ - Hay tres aspectos generales a tener en cuenta cuando se hace lectura crítica de un estudio de Cohortes:
+      ¿Son válidos los resultados del estudio? ¿Cuáles son los resultados?
+      ¿Pueden aplicarse en tu medio?
+Las 11 preguntas contenidas en las siguientes páginas están diseñadas para ayudarte a pensar sistemáticamente sobre estos temas.
+- Las dos primeras preguntas son “de eliminación” y pueden contestarse rápidamente. Sólo si la respuesta a estas dos preguntas es afirmativa, merece la pena continuar con las restantes.
+- Hay un cierto grado de solapamiento entre algunas de las preguntas.
+- En la mayoría de las preguntas se te pide que respondas “sí”, “no” o “no sé”.
+- En itálica y debajo de las preguntas encontrarás una serie de pistas para contestar a las mismas. Están pensadas para recordarte por qué la pregunta es importante. ¡En los pequeños grupos no suele haber tiempo para responder a todo con detalle!</string>
+	<key>pagina1Marca</key>
+	<string>Este material ha sido desarrollado por CASP España (CASPe)</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia sobre la eficacia clínica</string>
+	<key>pagina1TipoArt</key>
+	<string>11 preguntas para ayudarte a entender un estudio de Cohortes</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Son válidos los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿El estudio se centra en un tema claramente definido? </string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string> Una pregunta se puede definir en términos de:
+- La población estudiada.
+- Los factores de riesgo estudiados.
+- Los resultados “outcomes”
+considerados.
+- ¿El estudio intentó detectar un efecto
+beneficioso o perjudicial?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. ¿La cohorte se reclutó de la manera más adecuada? </string>
+					<key>literalC</key>
+					<string>2. ¿Cohorte bien seleccionada?</string>
+					<key>pista</key>
+					<string> Se trata de buscar posibles sesgos de selección que puedan comprometer que los hallazgos se puedan generalizar.
+- ¿La cohorte es representativa de una población definida?
+- ¿Hay algo “especial” en la cohorte?
+- ¿Se incluyó a todos los que deberían
+haberse incluido en la cohorte?
+- ¿La exposición se midió de forma
+precisa con el fin de minimizar posibles sesgos?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿El resultado se midió de forma precisa con el fin de minimizar posibles sesgos? </string>
+					<key>literalC</key>
+					<string>3. ¿Desenlace bien medido?</string>
+					<key>pista</key>
+					<string> Se trata de buscar sesgos de medida o de clasificación:
+- ¿Los autores utilizaron variables objetivas o subjetivas?
+- ¿Las medidas reflejan de forma adecuada aquello que se supone que tiene que medir?
+- ¿Se ha establecido un sistema fiable para detectar todos los casos (por ejemplo, para medir los casos de enfermedad)?
+- ¿Se clasificaron a todos los sujetos en el grupo exposición utilizando el mismo tratamiento?
+- ¿Los métodos de medida fueron similares en los diferentes grupos?
+- ¿Eran los sujetos y/o el evaluador de los resultados ciegos a la exposición (si esto no fue así, importa)?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿Han tenido en cuenta los autores el potencial efecto de los factores de confusión en el diseño y/o análisis del estudio?</string>
+					<key>literalC</key>
+					<string>4. ¿Control de F de Confusión?</string>
+					<key>pista</key>
+					<string> Haz una lista de los factores que consideras importantes
+￼￼- Busca restricciones en el diseño y en las técnicas utilizadas como, por ejemplo, los análisis de modelización, estratificación, regresión o de sensibilidad utilizados para corregir, controlar o justificar los factores de confusión. Lista:</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. ¿El seguimiento de los sujetos fue lo suficientemente largo y completo?</string>
+					<key>literalC</key>
+					<string>5. ¿Seguimiento adecuado?</string>
+					<key>pista</key>
+					<string>- Los efectos buenos o malos deberían aparecer por ellos mismos.
+- Los sujetos perdidos durante el seguimiento pueden haber tenido resultados distintos a los disponibles para la evaluación.
+- En una cohorte abierta o dinámica, ¿hubo algo especial que influyó en el resultado o en la exposición de los sujetos que entraron en la cohorte?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cómo son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. ¿Cuáles son los resultados?</string>
+					<key>literalC</key>
+					<string>6. ¿Resultado importante?</string>
+					<key>pista</key>
+					<string>- ¿Cuáles son los resultados netos?
+- ¿Los autores han dado la tasa o la proporción entre los expuestos/no
+expuestos?
+- ¿Cómo de fuerte es la relación de
+asociación entre la exposición y el resultado (RR)?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. ¿Cuál es la precisión de los resultados?</string>
+					<key>literalC</key>
+					<string>7. ¿Resultados precisos?</string>
+					<key>pista</key>
+					<string>Tamaño del intervalo de confianza</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ ¿Son los resultados aplicables a tu medio?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Imprecisa: ¿se busca una impresión global? ¿se busca si tienen plausibilidad biológica?. En Casos y Controles era una pregunta del apartado resultados. </string>
+					<key>literal</key>
+					<string>8. ¿Te parecen creíbles los resultados?</string>
+					<key>literalC</key>
+					<string>8. ¿Resultados lógicos?</string>
+					<key>pista</key>
+					<string> ¡Un efecto grande es difícil de ignorar!
+- ¿Puede deberse al azar, sesgo o confusión?
+- ¿El diseño y los métodos de este estudio son lo suficientemente defectuosos para hacer que los resultados sean poco creíbles?
+- Considera los criterios de Bradford Hill (por ejemplo, secuencia temporal, gradiente dosis-respuesta, fortaleza de asociación, verosimilitud biológica).</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>imprecisa, no parece una pregunta de aplicabilidad ¿se busca si los resultados son lógicos biológicamente?</string>
+					<key>literal</key>
+					<string>9. ¿Los resultados de este estudio coinciden con otra evidencia disponible?</string>
+					<key>literalC</key>
+					<string>9. ¿Acorde con otros estudios?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Se pueden aplicar los resultados en tu medio?</string>
+					<key>literalC</key>
+					<string>10. ¿Es aplicable en tu medio?</string>
+					<key>pista</key>
+					<string>￼ Considera si
+- Los pacientes cubiertos por el estudio pueden ser suficientemente diferentes de los de tu área.
+- Tu medio parece ser muy diferente al del estudio.
+- ¿Puedes estimar los beneficios y perjuicios en tu medio?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. ¿Va a cambiar esto tu decisión clínica?</string>
+					<key>literalC</key>
+					<string>11. ¿Cambiará tu práctica?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

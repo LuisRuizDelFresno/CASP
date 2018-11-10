@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Termino</key>
+		<string>Cegamiento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cegamiento (&lt;i&gt;blind&lt;/i&gt;):&lt;/b&gt; &lt;ol&gt; &lt;li&gt;&lt;b&gt;Ensayos clínicos:&lt;/b&gt; Procedimiento de diseño en un ensayo clínico por el que los participantes, investigadores y/o el personal que evalúa los resultados ignoran qué participantes están recibiendo la/s intervención/es (medicamentos o no) y cuáles el control. Hay ensayos imposibles de cegar, como los que comparan cirugía contra tratamiento medico. &lt;li&gt; &lt;b&gt;Test Diagnósticos:&lt;/b&gt; Ausencia de información de las otras características del paciente o de las pruebas previas realizadas, por parte de quien interpreta el test o el &lt;i&gt;Gold Standard&lt;/i&gt;&lt;/ol&gt;.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Colaboración Cochrane</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;La Colaboración Cochrane (&lt;i&gt;The Cochrane Collaboration&lt;/i&gt;):&lt;/b&gt; es un empeño internacional en el que gente de muy distintos países busca sistemáticamente, critica y revisa la evidencia disponible a partir de los ensayos clínicos. Los objetivos de la Cochrane son el desarrollo y mantenimiento de revisiones sistemáticas, la puesta al día de los ensayos clínicos en todas las formas de cuidados de salud y hacer que esta información esté realmente accesible para los clínicos y otros responsables en todos los niveles de los sistemas de salud. El Centro Coordinador de la Colaboración Cochrane Iberoamericano está en el Hospital de la Santa Cruz y San Pablo de Barcelona.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Controles</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Controles (&lt;i&gt;Controls&lt;/i&gt;):&lt;/b&gt; en un ECC son los individuos que forman el grupo de comparación. Reciben el tratamiento convencional (o placebo) mientras que el grupo experimental recibe el tratamiento que se está probando.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Diferencia absoluta de riesgo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Diferencia absoluta de riesgo (&lt;i&gt;Absolute Risk Reduction (ARR)&lt;/i&gt;):&lt;/b&gt; es un estimador habitual de los ensayos. Es el resultado de la diferencia aritmética entre el riesgo del control  y el riesgo del tratamiento. Si en un ensayo con tto A se mueren 20 sujetos  de 100 y con placebo mueren 30 de 100, la RAR sería 30/100 - 20/100 = 0.30-0.20=&gt; 0.10 o un 10 % mas en un grupo que en otro. Su inversa es el NNT (ver NNT)</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Ensayo clínico controlado</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Ensayo clínico controlado (ECC) (&lt;i&gt;Randomised controlled trial (RCT)&lt;/i&gt;):&lt;/b&gt; es un diseño de estudio en el que los sujetos son asignados por azar a dos o mas grupos: uno o mas reciben el tratamiento (grupo/s experimental/es) que se está probando y el otro (grupo de comparación o control) recibe un tratamiento alternativo. Los grupos son seguidos para observar cualquier diferencia en los resultados. Así se evalúa la &lt;i&gt;eficacia&lt;/i&gt; del tratamiento.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Efectividad clínica</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Efectividad clínica (&lt;i&gt;Clinical effectiveness&lt;/i&gt;):&lt;/b&gt; es la magnitud en la que una intervención (tratamiento, procedimiento o servicio) mejora los resultados para los pacientes &lt;u&gt;en la práctica&lt;/u&gt;. También se le denomina simplemente &lt;b&gt;&apos;efectividad&apos;&lt;b&gt;.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Eficacia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Eficacia (&lt;i&gt;Efficacy&lt;/i&gt;):&lt;/b&gt; es la magnitud en la que una intervención (tratamiento, procedimiento o servicio) mejora los resultados para los pacientes &lt;u&gt;en condiciones ideales&lt;/u&gt; (típicamente un ensayo clínico).</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Homogeneidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Homogeneidad (&lt;i&gt;Homogeneity&lt;/i&gt;):&lt;/b&gt; hace referencia a una gran semejanza o parecido de los estudios entre si. Se dice que unos estudios son homogéneos si sus resultados no varían entre sí más de lo que puede esperarse por azar. Lo opuesto a homogeneidad es &lt;b&gt;heterogeneidad&lt;b&gt;.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Intervalo de Confianza</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Intervalo de confianza (IC) (&lt;i&gt;Confidence interval (CI)&lt;/i&gt;):&lt;/b&gt; es el intervalo dentro del que se encuentra la verdadera magnitud del efecto (nunca conocida exactamente) con un grado prefijado de seguridad. A menudo se habla de “intervalo de confianza al 95%&quot; (o &quot;límites de confianza al 95%”). Quiere decir que dentro de ese intervalo se encontraría el verdadero valor en el 95% los casos. </string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Lectura crítica</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Lectura crítica (&lt;i&gt;Critical Appraisal&lt;/i&gt;):&lt;/b&gt; es el proceso de evaluar e interpretar la evidencia aportada por la literatura científica, considerando sistemáticamente los resultados que se presentan, su validez y su relevancia para el trabajo propio.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Medline</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;MEDLINE:&lt;/b&gt; es la base de datos más importante de la &lt;i&gt;National Library of Medicine&apos;s&lt;/i&gt; (NLM), referencia miles de artículos de investigación biomédica (medicina, enfermería, odontología, medicina veterinaria, asistencia sanitaria y ciencias pre-clínicas), en más de 4.800 revistas, seleccionadas de más de 70 paises. Desde 1966 hasta la actualidad. En la actualidad su consulta es gratuita y es accesible a través de PubMed (ver PubMed).</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Meta-análisis</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Meta-análisis (&lt;i&gt;Meta-analysis&lt;/i&gt;):&lt;/b&gt; es una técnica estadística que permite integrar los resultados de distintos estudios en un único estimador, dando más peso a los resultados de los estudios más grandes.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Número necesario a tratar</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Número necesario a tratar (&lt;i&gt;Number needed to treat&lt;/i&gt;) (NNT):&lt;/b&gt; es una medida de la eficacia de un tratamiento. Es el número de personas que se necesitaría tratar con un tratamiento específico (vgr. aspirina a quienes han sufrido un ataque cardíaco) para producir, o evitar, &lt;u&gt;una&lt;/u&gt; ocurrencia &lt;u&gt;adicional&lt;/u&gt; de un evento determinado (vgr. prevención de muerte). Del mismo modo se define &lt;b&gt;número necesario para perjudicar (NNP) (&lt;i&gt;number needed to harm (NNH)&lt;/i&gt;)&lt;/b&gt; para evaluar efectos indeseables.&lt;br&gt;&lt;a href=&quot;NNTCalc&quot;&gt;Necesita calcular un NNT?&lt;/a&gt;</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Odds</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Odds:&lt;/b&gt; es un término poco usado fuera del juego (en Inglaterra) y la estadística. Se define como el cociente entre la probabilidad de que un evento ocurra y la de que no ocurra. Piensa en él como una medida del &quot;riesgo&quot;.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Odds ratio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Odds ratio (OR):&lt;/b&gt; es una medida de la eficacia de un tratamiento. Si es igual a 1, el efecto del tratamiento no es distinto del efecto del control. Si el OR es mayor (o menor) que 1, el efecto del tratamiento es mayor (o menor) que el del control. Nótese que el efecto que se está midiendo puede ser adverso (vgr. muerte, discapacidad) o deseable (vgr. dejar de fumar).</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Placebo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Placebo:&lt;/b&gt; es un tratamiento inactivo dado a menudo como control en los ensayos clínicos. El placebo se suministra en una forma que es aparentemente idéntica a la del tratamiento activo que se está probando, para eliminar los efectos psicológicos. </string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Riesgo relativo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Riesgo Relativo:&lt;/b&gt; Es el estimador mas usado en los ensayos clínicos. Mide la relación entre el riesgo en el grupo experimental o de estudio y el grupo de control. Si es mayor de 1 significa que el evento es mas frecuente en el grupo experimental que en el de control y si es &lt; 1 es que el evento (vgr. Curación) es mas frecuente en el grupo control. Si en un ensayo de parches de nicotina dejaron de fumar 20 sujetos  de 100 con los parches y 1 de 100 con el placebo el RR sería 20/100 / 1/100 = 20. La lectura sería que los parches son 20 veces más eficaces que el placebo para dejar de fumar. </string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Revisión</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Revisión (&lt;i&gt;Review&lt;/i&gt;):&lt;/b&gt; es cualquier resumen de la literatura de un aspecto determinado (tratamiento, enfermedad, etc.). No está sujeto a reglas predefinidas en su elaboración  y por tanto no está exenta de posibles sesgos.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Revisión sistemática</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Revisión sistemática (&lt;i&gt;Systematic review&lt;/i&gt;):&lt;/b&gt; es una &lt;b&gt;&lt;i&gt;revisión&lt;/i&gt;&lt;/b&gt; en la que la evidencia sobre un tema ha sido sistemáticamente identificada, criticada y resumida de acuerdo a unos criterios predeterminados.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo de publicación</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo de publicación (&lt;i&gt;Publication bias&lt;/i&gt;):&lt;/b&gt; refleja la tendencia reconocida a publicar sólo estudios con resultados &quot;positivos&quot;.</string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Validez</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Validez (&lt;i&gt;Validity&lt;/i&gt;):&lt;/b&gt; se refiere a la solidez o rigor de un estudio en relación con el grado de aproximación a la &apos;verdad&apos; de sus resultados. Un estudio es válido si el modo en que ha sido diseñado y realizado hace que los resultados &lt;b&gt;no&lt;/b&gt; estén sesgados, es decir, nos da una &apos;verdadera&apos; estimación de la efectividad clínica.  </string>
+		<key>Grupo</key>
+		<string>Ensayos Clínicos y Revisiones Sistemáticas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Especificidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Especificidad (&lt;i&gt;specificity&lt;/i&gt;):&lt;/b&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Predicción:&lt;/b&gt; porcentaje de sujetos en los que la regla no clasifica bien (no funciona) del total de sujetos que al final no tendrán el evento que se pretende medir.&lt;li&gt;&lt;b&gt;Diagnóstico:&lt;/b&gt; es la proporción (o el porcentaje) de personas realmente sanas que tienen un resultado del test negativo. De otro modo es la Proporción de Verdaderos Negativos.&lt;li&gt;&lt;b&gt;Búsquedas:&lt;/b&gt; es otro parámetro (como la exhaustividad) que se utiliza para evaluar la búsqueda. Equivale al número de documentos relevantes recuperados entre el número total de documentos recuperados. Se expresa en forma de porcentaje.&lt;/ol&gt;</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Estudio prospectivo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Estudio prospectivo (&lt;i&gt;Prospective study&lt;/i&gt;):&lt;/b&gt; tipo de estudio en el cual dos o más grupos de sujetos en los que no se ha observado el resultado de interés son seguidos a lo largo del tiempo.</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Estudio retrospectivo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Estudio retrospectivo (&lt;i&gt;Retrospective study&lt;/i&gt;):&lt;/b&gt; tipo de estudio en el cual los individuos que ya han tenido un determinado evento o resultado son analizados para averiguar las posibles causas o factores de riesgo del evento.</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo (&lt;i&gt;Syn: systematic error, bias&lt;/i&gt;):&lt;/b&gt; desviación de los resultados obtenidos en un estudio respecto a los verdaderos; cualquier error sistemático que conduce a una estimación incorrecta de los resultados.</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Validación cruzada</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Validación cruzada (&lt;i&gt;cross-validation&lt;/i&gt;):&lt;/b&gt; métodos para validación de las RPC en los que se usa la misma población para generar la regla y para validarla. De manera clásica se puede: dividir en dos la población y usar la mitad para generar la regla y la otra para validarla (&lt;i&gt;Split sample technique&lt;/i&gt;); o también usar técnicas estadísticas complejas (&lt;i&gt;Bootstrap method, Jacknife method, partición recursiva&lt;/i&gt;).</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Validación prospectiva</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Validación prospectiva (&lt;i&gt;prospective validation&lt;/i&gt;):&lt;/b&gt; método para validar una RPC generada en una nueva población independiente.</string>
+		<key>Grupo</key>
+		<string>Reglas de Predicción Clínica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Análisis coste-beneficio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Análisis coste-beneficio:&lt;/b&gt; es una técnica  dentro del ámbito de la teoría de la decisión que pretende evaluar la conveniencia de un proyecto. En él se enumera y evalúa los costes  y los beneficios directos e indirectos derivados del mismo. Estos pueden ser monetarios, en forma de calidad de vida, etc.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Análisis coste-efectividad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Análisis coste-efectividad:&lt;/b&gt; Forma de análisis socioeconómico en el que los costes se miden en términos monetarios y los resultados se expresan como efectividad.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Análisis de minimización de costes</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Análisis de minimización de costes:&lt;/b&gt; Forma de análisis socioeconómico apropiada cuando dos o más alternativas producen resultados equivalentes y sólo sus costes deben ser comparados. El análisis identifica la alternativa menos costosa.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Análisis coste-utilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Análisis coste-utilidad:&lt;/b&gt; Forma de análisis socioeconómico en el que los costes se miden en términos monetarios y los resultados se expresan como utilidad.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Análisis de sensibilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Análisis de sensibilidad:&lt;/b&gt; Proceso analítico que examina cómo cambian los resultados del estudio cuando se modifican los valores de ciertas variables relevantes.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Beneficio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Beneficio:&lt;/b&gt; Resultado de una intervención medida en valor monetario.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Beneficio marginal</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Beneficio marginal:&lt;/b&gt; Es la cantidad máxima que se está dispuesto a pagar por una unidad más de un mismo bien.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Beneficio medio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Beneficio medio:&lt;/b&gt; Beneficio obtenido por cada unidad de recurso consumida como resultado de toda la inversión o actividad.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Calidad de vida</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Calidad de vida:&lt;/b&gt; Bienestar social, fisiológico, mental, intelectual y general de las personas.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Coste de oportunidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Coste de oportunidad:&lt;/b&gt; El verdadero coste del servicio o producto A es el valor de la mejor alternativa que no se puede llevar a cabo por utilizar los recursos en la alternativa A. Los recursos consumidos en un proyecto no estarán disponibles para otros proyectos.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Coste marginal</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Coste marginal:&lt;/b&gt; Coste adicional en que se incurre para obtener un beneficio adicional.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Coste medio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Coste medio:&lt;/b&gt; Coste en que se incurre por cada unidad producida como resultado de toda la inversión o actividad.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Costes directos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Costes directos:&lt;/b&gt; Cambios producidos en los recursos debidos a la intervención analizada. Incluye recursos médicos y no médicos.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Costes fijos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Costes fijos:&lt;/b&gt; Costes que permanecen constantes para cualquier volumen de producción.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Costes indirectos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Costes indirectos:&lt;/b&gt; Valor monetario de los cambios negativos en la productividad laboral de un paciente como consecuencia de la intervención.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Costes intangibles</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Costes intangibles:&lt;/b&gt; Costes no cuantificables en términos monetarios.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Costes variables</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Costes variables:&lt;/b&gt; Costes que varían según el volumen de producción.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Descuento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Descuento:&lt;/b&gt; Procedimiento para calcular los costes o beneficios que ocurren en diferentes fechas a su valor en el momento presente, llamado valor actual.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Eficiencia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Eficiencia:&lt;/b&gt; Relación entre los resultados obtenidos y el coste de los recursos consumidos para obtener los resultados.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Evaluación socioeconómica</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Evaluación socioeconómica:&lt;/b&gt; Conjunto de métodos que proporcionan información sobre los costes y consecuencias de servicios y procedimientos médicos. Se usa para identificar cuál de varias alternativas requiere los mínimos recursos por unidad de producción o produce los mejores resultados con los recursos disponibles.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>QALY</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;QALY (&lt;i&gt;Quality Adjusted Life Years&lt;/i&gt;):&lt;/b&gt; Años de vida ajustados por calidad. En castellano es el acronimo &lt;b&gt;AVAC&lt;/b&gt;. Incluye los dos componentes de cantidad y calidad de vida. Es el producto aritmético de la expectativa de vida por la calidad de vida que se consigue en ese tiempo.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Resultado</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Resultado:&lt;/b&gt; Consecuencia de aplicar un procedimiento.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Descuento, Tasa de</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Tasa de descuento:&lt;/b&gt; Tasa de interés usada para calcular el valor actual.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Utilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Utilidad:&lt;/b&gt; Término usado por los economistas de la salud para definir la satisfacción obtenida por una persona a partir del uso de un bien o servicio. Este concepto se utiliza para determinar la valoración individual del estado de bienestar derivado del uso de intervenciones sanitarias.</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Valor actual</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Valor actual:&lt;/b&gt; Es el valor de algo en el momento presente. (Ver descuento)</string>
+		<key>Grupo</key>
+		<string>Evaluación Económica</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Ajuste</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Ajuste (&lt;i&gt;Adjustment&lt;/i&gt;):&lt;/b&gt; Procedimiento estadístico por el cual se minimiza el efecto de las diferencias entre los grupos de estudio sobre la estimación de una medida de asociación.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Asociación</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Asociación (&lt;i&gt;Association&lt;/i&gt;):&lt;/b&gt; Dependencia estadística que indica relación entre dos o más eventos, variables u otras características; la asociación puede ser fortuita o producida por otras circunstancias. La presencia de asociación no significa causalidad.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Casos y controles</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Casos y controles (&lt;i&gt;Case-control study&lt;/i&gt;):&lt;/b&gt; Estudio observacional que estima la asociación entre un factor de riesgo y una enfermedad o evento comparando el nivel de exposición al factor de riesgo entre dos grupos de personas: un grupo de personas con el evento o enfermedad (casos) y un grupo de comparación o referencia de personas que no lo tienen (controles).</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Causalidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Causalidad (&lt;i&gt;Causality&lt;/i&gt;):&lt;/b&gt; Relación de las causas con los efectos que producen. Existen diferentes modelos y criterios para establecer una relación causal, entre ellos la evidencia epidemiológica, aunque por sí misma es insuficiente para establecer una relación como causal.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Cointervenciones</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cointervenciones (&lt;i&gt;Co-interventions&lt;/i&gt;):&lt;/b&gt; Intervenciones distintas al tratamiento que se aplican a los enfermos en un estudio. Si se aplican de forma diferente según sean de la rama del tratamiento o del control pueden producir grandes diferencias entre los grupos. Se evita con el cegamiento.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Cohorte</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cohorte:&lt;/b&gt; Grupo de personas de similares características. Habitualmente se siguen durante un tiempo para saber la incidencia de eventos o enfermedades.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Comorbilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Comorbilidad (&lt;i&gt;Comorbidity&lt;/i&gt;):&lt;/b&gt; La existencia de enfermedad o enfermedades adicionales a la condición que es objeto del estudio.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Curva de supervivencia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Curva de supervivencia (&lt;i&gt;Survival curve&lt;/i&gt;):&lt;/b&gt; Representación gráfica de la población a estudio que permanece libre de enfermedad (o sin el evento de interés) a lo largo del tiempo. Para su construcción suele utilizarse el método de Kaplan Meier, el cual permite la utilización de datos censurados (pérdidas de seguimiento en las que no se ha observado el evento de interés).</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Estudio de cohortes</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Estudio de cohortes (&lt;i&gt;Cohort study&lt;/i&gt;):&lt;/b&gt; Estudio en el que se comparan dos o más grupos de personas (cohortes) que se diferencian por la presencia o el nivel de una determinada condición o exposición o por recibir un tipo de tratamiento o intervención. Las cohortes son seguidas a lo largo del tiempo estudiándose tras el mismo la incidencia de los eventos de interés.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Incidencia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Incidencia (&lt;i&gt;Incidence&lt;/i&gt;):&lt;/b&gt; Frecuencia de nuevos eventos en una población de riesgo durante un periodo determinado.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Estudios observacionales</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Estudios observacionales (&lt;i&gt;Observational Studies&lt;/i&gt; u &lt;i&gt;Observational Study Design&lt;/i&gt;):&lt;/b&gt; Tipo de estudio en el que el investigador no interviene ni manipula ninguna variable o factor de riesgo que pueda influir en el resultado de interés.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Factores pronósticos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Factores pronósticos (&lt;i&gt;Prognosis factors&lt;/i&gt;):&lt;/b&gt; Determinadas características que aumentan o disminuyen el riesgo de sufrir un resultado positivo o un efecto adverso.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Grupo de comparación</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Grupo de comparación (&lt;i&gt;Comparison group&lt;/i&gt;):&lt;/b&gt; Cualquier grupo que se compare con el grupo de estudio o experimental. Es sinónimo de grupo control.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Modelo de Regresión de Cox</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Modelo de Regresión de Cox (&lt;i&gt;Cox regresión&lt;/i&gt;):&lt;/b&gt; Técnica estadística (regresión) que permite evaluar la relación entre un conjunto de variables y el tiempo de supervivencia de un grupo de pacientes.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Pérdidas de seguimiento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Pérdidas de seguimiento (&lt;i&gt;Lost of follow-up&lt;/i&gt;):&lt;/b&gt; Pacientes con los que se pierde el contacto durante el periodo de observación y de los que no sabemos si se ha producido el resultado de interés al final del periodo de seguimiento.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Pronóstico</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Pronóstico (&lt;i&gt;Prognosis&lt;/i&gt;):&lt;/b&gt; Probabilidad o riesgo de que ocurra un evento o enfermedad. Juicio que forma el médico respecto a los cambios que pueden sobrevenir durante el curso de una enfermedad y sobre su duración y terminación por los síntomas que la han precedido o la acompañan.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Seguimiento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Seguimiento (&lt;i&gt;Follow-up&lt;/i&gt;):&lt;/b&gt; Tiempo de seguimiento de los individuos o poblaciones objeto del estudio en el que pueden producirse los eventos objeto del estudio.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Series de casos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Series de casos:&lt;/b&gt; informes que describen pacientes con un resultado de interés.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo del entrevistador</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo del entrevistador (&lt;i&gt;Intervierwer bias&lt;/i&gt;):&lt;/b&gt; Tipo de sesgo que puede ocurrir cuando el que pregunta o recoge la información conoce el grupo (expuesto o no expuesto, caso o control) al que pertenece el sujeto de estudio.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo del tiempo de adelanto</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo del tiempo de adelanto (&lt;i&gt;Lead-time bias&lt;/i&gt;):&lt;/b&gt; El tiempo de adelanto es el periodo de tiempo entre la posibilidad de una detección precoz de una enfermedad y el momento en que de forma habitual se presenta clínicamente. La detección temprana de una enfermedad, objetivo principal de un cribado, se asocia a una prolongación en la supervivencia de la misma que, en parte, es debido al adelanto en su diagnóstico.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Confusión, Factor de</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Factor de confusión (&lt;i&gt;Confounding variable, confounder&lt;/i&gt;):&lt;/b&gt; Variable que, al asociarse tanto a las variables de exposición como al resultado de interés, distorsiona la verdadera relación entre éstas. Es posible ajustarla en la fase de análisis para minimizar su efecto.</string>
+		<key>Grupo</key>
+		<string>Pronóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Cociente de Probabilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cociente de Probabilidad (&lt;i&gt;likelihood ratio&lt;/i&gt;):&lt;/b&gt; Probabilidad de un resultado en los enfermos dividido por la probabilidad de ese mismo resultado en no enfermos. El LR indica en qué medida el resultado del test apoya la presencia de enfermedad (cociente de probabilidad mayor de 1) o su ausencia (cociente de probabilidad menor de 1).</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Cribado</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cribado (&lt;i&gt;screening&lt;/i&gt;):&lt;/b&gt; Proceso de identificación de personas con alta probabilidad de presentar una determinada condición (enfermedad o factor de riesgo) en una población específica o en la población general.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Curvas ROC</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Curvas ROC:&lt;/b&gt; Representación gráfica usada (en el caso de que el resultado del test sean variables continuas o escalas ordinales) para conocer las diferentes sensibilidades y especificidades que se obtendrían en el caso de usar diferentes puntos de corte del test.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Independencia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Independencia&lt;/b&gt; (&lt;i&gt;en contexto&lt;/i&gt;): Se refiere a la ausencia de relación entre el resultado del test y la decisión de realizar el patrón oro.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Patrón oro</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Patrón oro (&lt;i&gt;Gold Standard&lt;/i&gt;):&lt;/b&gt; Es el criterio que define quién tiene “realmente” la enfermedad (o condición) en estudio.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Probabilidad post prueba</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Probabilidad post prueba:&lt;/b&gt; Es la probabilidad de que el paciente tenga la enfermedad (o condición) una vez realizado el test o prueba diagnóstica.&lt;br&gt;&lt;a href=&quot;DiagCalc&quot;&gt;Necesita calcular una Pr Post-Prueba?&lt;/a&gt;</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Probabilidad pre prueba</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Probabilidad pre prueba:&lt;/b&gt; Es la probabilidad de que el paciente tenga la enfermedad (o condición) antes de realizar el test o prueba diagnóstica.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Probabilidad umbral de acción</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Probabilidad umbral de acción:&lt;/b&gt; Probabilidad por encima de la cual está justificada por su “utilidad” una determinada acción; por ejemplo iniciar el tratamiento (sería el &quot;Umbral de tratamiento&quot;).</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sensibilidad</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sensibilidad:&lt;/b&gt; &lt;ol&gt;&lt;li&gt;&lt;b&gt;Diagnóstico (&lt;i&gt;sensitivity&lt;/i&gt;):&lt;/b&gt; es la proporción (o el porcentaje) de pacientes realmente enfermos que tienen un resultado del test positivo. De otro modo es la Proporción de Verdaderos Positivos.&lt;li&gt;&lt;b&gt;Predicción (&lt;i&gt;sensitivity&lt;/i&gt;):&lt;/b&gt; porcentaje de sujetos en los que la regla clasifica bien el evento (es positiva), del total de sujetos que padecen ese evento que la regla pretende medir.&lt;li&gt;&lt;b&gt;Búsquedas (&lt;i&gt;recall&lt;/i&gt;):&lt;/b&gt; es un parámetro que sirve para evaluar la búsqueda. Equivale al número de documentos relevantes recuperados del número total de documentos relevantes existentes en la base de datos. Se expresa en forma de porcentaje.&lt;/li&gt;&lt;/ol&gt;</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo de Verificación</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo de Verificación:&lt;/b&gt; Sesgo que se produce cuando la realización del patrón oro depende del resultado del test o prueba en estudio.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Sesgo de Incorporación</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sesgo de Incorporación:&lt;/b&gt; Sesgo que se produce cuando la definición del test incorpora elementos del patrón oro  (lo definido forma parte de la definición).</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>SnNout</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;SnNout:&lt;/b&gt; Regla nemotécnica para recordar que un test muy sensible (&lt;b&gt;Sn&lt;/b&gt;) cuando es negativo (&lt;b&gt;N&lt;/b&gt;) descarta enfermedad (rule-&lt;b&gt;out&lt;/b&gt;).</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>SpPin</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;SpPin:&lt;/b&gt; Regla nemotécnica para recordar que un test muy específico (&lt;b&gt;Sp&lt;/b&gt;) cuando es positivo (&lt;b&gt;P&lt;/b&gt;) confirma (&lt;i&gt;&lt;b&gt;in&lt;/b&gt;clude&lt;/i&gt;) la enfermedad.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Teorema de Bayes</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Teorema de Bayes:&lt;/b&gt; Es un teorema que indica en qué medida el resultado del test cambia la probabilidad de enfermedad.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Test o prueba en estudio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Test o prueba en estudio:&lt;/b&gt; Es la técnica que se utiliza en lugar del &lt;i&gt;Gold Standard&lt;/i&gt; para reducir la incertidumbre sobre la presencia o ausencia de enfermedad (habitualmente es menos cara, molesta o cruenta que el &lt;i&gt;Gold Standard&lt;/i&gt;).</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Valor predictivo positivo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Valor predictivo positivo:&lt;/b&gt; Es la probabilidad de que el sujeto esté realmente enfermo cuando el resultado del test es positivo.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Valor predictivo negativo</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Valor predictivo negativo:&lt;/b&gt; Es la probabilidad de que el sujeto esté realmente sano cuando el resultado del test es negativo. (Ambos valores predictivos dependen de la probabilidad preprueba además de la sensibilidad y la especificidad.</string>
+		<key>Grupo</key>
+		<string>Diagnóstico</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Base de datos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Base de datos (&lt;i&gt;Data base&lt;/i&gt;):&lt;/b&gt; Conjunto de datos homogéneos y ordenados, que se presentan normalmente de forma legible por ordenador y que se refieren a una materia determinada.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Campo</string>
+		<key>Definicion</key>
+		<string>120.	&lt;b&gt;Campo (&lt;i&gt;Field&lt;/i&gt;):&lt;/b&gt; Una unidad de un registro de una base de datos. En función de la base de datos, tendremos unos determinados campos. Entre los que podemos encontrar: &lt;i&gt;author&lt;/i&gt; (autor), &lt;i&gt;title&lt;/i&gt; (título), &lt;i&gt;source&lt;/i&gt; (revista, año y nº en que se ha publicado). </string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Cita/Ref. Bibliográfica</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cita/Ref. Bibliográfica (&lt;i&gt;Citation&lt;/i&gt;):&lt;/b&gt; Es la representación bibliográfica de un artículo de revista o del capítulo de un libro, etc.; supone la unidad básica en una base de datos bibliográfica. Esta unidad incluye muchos campos, tales como: autor, título del artículo, título de la revista, año, volumen, fascículo y las páginas; facilita la información necesaria para localizar el artículo o libro. Es sinónimo de registro.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Concentrar</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Concentrar (&lt;i&gt;Focus&lt;/i&gt;):&lt;/b&gt; &quot;&lt;i&gt;Focus&lt;/i&gt;&quot; es la opción de Medline de Ovid para indicar que un determinado MeSH sea el término principal de los artículos que vamos a recuperar. (V.MeSH).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>DeCS</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;DeCS:&lt;/b&gt; Descriptores en Ciencias de la Salud, son la traducción al español de los términos MeSH. (V. MeSH).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Descriptor</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Descriptor (&lt;i&gt;Subject Term&lt;/i&gt;):&lt;/b&gt; Materias que describen el contenido conceptual del documento. Son precisos y &lt;b&gt;unívocos&lt;/b&gt;, y su finalidad es que cada concepto esté representado por un único término, y que cada término represente un único concepto. De esta forma evitan tener que pensar en todas las posibles palabras que los autores han podido utilizar para expresar el mismo concepto. P. Ej. Artículos que hablen de niños, pueden aparecer los términos, child, childhood, pediatric, infant, etc., si utilizamos el MeSH &quot;Child&quot; vamos a recuperarlos todos. Los descriptores que se utilizan en medicina se llaman MeSH (Medical Subject Headings). (V. MeSH).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Dynamed</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;&lt;i&gt;Dynamed&lt;/i&gt;:&lt;/b&gt; libro electrónico que forma parte de los summary de la pirámide del 6S. Describe de forma actualizada las evidencias en forma de capítulos similar a los libros en papel. Se diferencia de Uptodate en que evalúa la calidad de la información que proporciona y describe sus limitaciones y fortalezas al realizar cada recomendación. Hay una versión para teléfono móvil. Es de pago.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Estrategia de Búsqueda</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Estrategia de búsqueda (&lt;i&gt;Search Strategy&lt;/i&gt;):&lt;/b&gt; Traducción de la pregunta clínica al lenguaje documental (o controlado), es decir, identificar los términos específicos y combinarlos adecuadamente.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Essential evidence plus</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;&lt;i&gt;Essential evidence plus&lt;/i&gt;:&lt;/b&gt; libro electrónico que forma parte de los summary de la pirámide del 6S. Describe de forma actualizada las evidencias en forma de capítulos similar a los libros en papel. Incluye calculadoras médicas de diagnóstico y pronóstico, POEMS, sumarios de evidencia y las revisiones Cochrane.   Hay una versión para teléfono móvil. Es de pago.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Evidenceupdates</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Evidenceupdates:&lt;/b&gt; es una base de datos creada por  la Universidad de McMaster y del grupo el BMJ, que ofrece resúmenes comentados de los artículos que se publican en las 120 revistas de más impacto. Estos se envían de acuerdo a los perfiles que selecciona el usuario con la periodicidad que él decida. Exige registro que es gratuito.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Expansión</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Expansión (&lt;i&gt;Explode&lt;/i&gt;):&lt;/b&gt; Ampliación automática con el operador &lt;b&gt;&lt;i&gt;OR&lt;/i&gt;&lt;/b&gt; de un término MeSH y los términos MeSH más específicos que existen bajo éste, en la rama jerárquica en la que están representados. Esta opción en Pubmed se realiza por defecto, y en cambio, en Medline de Ovid se debe señalar.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Filtros Metodológicos</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Filtros Metodológicos (&lt;/i&gt;Metodological Filters&lt;/i&gt;):&lt;/b&gt; Son estrategias de búsqueda que nos ayudan a encontrar, en bases de datos como Medline, diferentes tipos de estudio sobre tratamiento, diagnóstico, etiología o pronóstico. En Pubmed se denominan &quot;Clinical Queries&quot;. Para aplicar uno de estos filtros sólo tenemos que combinar nuestra búsqueda con AND al filtro que nos interesa.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Indización</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Indización (&lt;i&gt;Indexing&lt;/i&gt;):&lt;/b&gt; Proceso por el que el documentalista asigna unos descriptores que describen el contenido conceptual del documento, con el fin de facilitar su recuperación. (v. Descriptor).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>ISSN</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;ISSN (&lt;i&gt;ISSN&lt;/i&gt;):&lt;/b&gt; International Standard Serial Number, número internacional único que identifica de manera inequívoca cada revista.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Lenguaje/texto libre</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Lenguaje/texto libre (&lt;i&gt;Text Word&lt;/i&gt;):&lt;/b&gt; Se utiliza el lenguaje libre cuando la búsqueda se realiza en varios campos de la base datos y recupera documentos que contengan el término tal y como se ha escrito. En esta búsqueda no se utilizan los descriptores o lenguaje controlado. (V. Lenguaje controlado).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Lenguaje controlado</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Lenguaje Controlado (&lt;i&gt;Controlled Language&lt;/i&gt;):&lt;/b&gt; El lenguaje controlado es la consulta por tesauro, es decir, cuando se busca en la base de datos utilizando los descriptores. (V. Descriptor).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Límites</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Límites (&lt;i&gt;Limits&lt;/i&gt;):&lt;/b&gt; Opción que ofrecen varias bases de datos, como Medline, que permite limitar/restringir una búsqueda de acuerdo a unas características vgr. artículos publicados en un idioma determinado, tipo de publicación (revisión, ensayo clínico), o grupo de edad, sexo, etc.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>MeSH</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;MeSH (&lt;i&gt;MeSH&lt;/i&gt;):&lt;/b&gt; Medical Subject Headings, son los descriptores utilizados por la National Library of Medicine (NLM) para indizar los documentos en sus bases de datos (Medline, Toxnet, etc.). Estos términos MeSH están ordenados de forma alfabética y jerárquica. La estructura jerárquica comienza por 15 grandes categorías como anatomía, enfermedades, y de ahí surgen las ramas con términos más generales que tienen por debajo otros más específicos. (V. Descriptores).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>MeSH Principal</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;MeSH Principal (&lt;i&gt;Major Topic&lt;/i&gt;):&lt;/b&gt; Se asignan entre 5 a 15 términos MeSH a cada documento, uno de éstos es el &quot;&lt;i&gt;Major Topic&lt;/i&gt;&quot;, es decir, la materia principal que trata el documento, y aparece representada con un asterisco. &quot;&lt;i&gt;Major Topic&lt;/i&gt;&quot; nos sirve para restringir la búsqueda, asegurándonos que los artículos que recuperemos tratarán ese término principalmente, y no simplemente lo nombrarán. (V. Concentrar).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>NO</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;NO (&lt;i&gt;NOT&lt;/i&gt;):&lt;/b&gt; Operador lógico o &lt;i&gt;booleano&lt;/b&gt; que sirve para excluir documentos que tienen un determinado término.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>O</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;O (&lt;i&gt;OR&lt;/i&gt;):&lt;/b&gt; Operador lógico o &lt;i&gt;booleano&lt;/b&gt; que recupera los documentos que contengan tanto un término como otro, o la suma de los dos. Se utiliza con términos relacionados o sinónimos.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>POEM</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;POEM:&lt;/b&gt; (&quot;&lt;i&gt;Patient-Oriented Evidence that Matters&lt;/i&gt;&quot;): se puede traducir como  Evidencia que importa orientada al paciente. Son resúmenes de evidencia que cumplen criterios de validez de estudios clínicos publicados en mas de 100 revistas. Ya hay mas de 3000 resumenes disponibles en &lt;i&gt;Essential evidence Plus&lt;/i&gt;.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Pertinente</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Pertinente (&lt;i&gt;Pertinent&lt;/i&gt;):&lt;/b&gt; Los documentos pertinentes son los seleccionados por el usuario del conjunto de documentos relevantes recuperados, siguiendo una serie de criterios no siempre explícitos: concordancia con la pregunta planteada, actualidad de los resultados, etc.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>PubMed</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;PubMed (&lt;i&gt;Pubmed&lt;/i&gt;):&lt;/b&gt; Es un motor de búsqueda de acceso libre que permite acceder a la base de datos MEDLINE. En ella se contienen citas y resúmenes de artículos de investigación biomédica. Recoge más de 4800 revistas de más de 70 países desde 1966 hasta la actualidad.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Registro</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Registro (&lt;i&gt;Record&lt;/i&gt;):&lt;/b&gt; En una base de datos cada documento (artículo de revista, capítulo de libro, etc.) está representado por un registro, a su vez cada registro está dividido en un determinado número de campos. (V. Campo).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Relevancia</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Relevancia (&lt;i&gt;Relevance&lt;/i&gt;):&lt;/b&gt; Es la adecuación del los resultados obtenidos en la búsqueda a los términos de demanda de información.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Ruido</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Ruido (&lt;i&gt;False Drops&lt;/i&gt;):&lt;/b&gt; Documentos recuperados que no son relevantes para el asunto sobre el que se realiza la búsqueda, es decir, que aunque contengan los términos que hemos utilizado para la búsqueda, no tratan del tema de la consulta.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Silencio</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Silencio (&lt;i&gt;Silent&lt;/i&gt;):&lt;/b&gt; Documentos pertinentes para nuestra búsqueda pero que no han sido recuperados, es decir, que aunque tratan el tema de la consulta no contienen los términos exactos que hemos utilizado.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Subencabezamiento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Subencabezamiento (&lt;i&gt;Subheading&lt;/i&gt;):&lt;/b&gt; Son términos que se utilizan junto a descriptores MeSH para destacar un aspecto específico del tema. Vgr. algunos calificadores para una enfermedad pueden ser: complicaciones, tratamiento con medicamentos, diagnóstico, etc. (&lt;i&gt;complications, drug-therapy, diagnosis,&lt;/i&gt; etc.).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Tesauro</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Tesauro (&lt;i&gt;Thesaurus&lt;/i&gt;):&lt;/b&gt; Lista estructurada de conceptos, destinados a representar de manera unívoca el contenido de los documentos y de las consultas dentro de un sistema documental determinado.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Truncamiento</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Truncamiento (&lt;i&gt;Truncation&lt;/i&gt;):&lt;/b&gt; Sirve para buscar palabras que tienen la misma raíz y diferentes terminaciones, vgr. si ponemos cardi*, recuperará &lt;i&gt;cardiology, cardiac, cardiovascular&lt;/i&gt;, etc. Dependiendo de la base de datos se utiliza el signo del asterisco (*), dólar ($), o el interrogante (?).</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Uptodate</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Uptodate:&lt;/b&gt; libro electrónico que forma parte de los &lt;i&gt;summary&lt;/i&gt; de la pirámide del 6S. Describe de forma actualizada las evidencias en forma de capítulos similar a los libros en papel. Es de pago.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>Y</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Y (&lt;i&gt;AND&lt;/i&gt;):&lt;/b&gt; Operador &lt;i&gt;booleano&lt;/i&gt; que recupera los documentos que contengan ambos términos.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+	<dict>
+		<key>Termino</key>
+		<string>6S</string>
+		<key>Definicion</key>
+		<string>&lt;b&gt;6S:&lt;/b&gt; Descripción de una estrategia de búsqueda jerarquizada para recuperar información relevante para los clínicos. Ha sido descrita por B Haynes y ha sufrido modificaciones a lo largo del tiempo, desde  4S,  pasando por  el 5S,  hasta llegar al 6S de la actualidad.</string>
+		<key>Grupo</key>
+		<string>Búsquedas</string>
+	</dict>
+</array>
+</plist>

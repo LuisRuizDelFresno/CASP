@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="11G63" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Etiquetas" representedClassName="Etiquetas" syncable="YES">
+        <attribute name="etiquetaNombre" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="relacionLectCrit" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="LectCrit" inverseName="relacionEtiquetas" inverseEntity="LectCrit" syncable="YES"/>
+    </entity>
+    <entity name="LectCrit" representedClassName="LectCrit" syncable="YES">
+        <attribute name="comentario" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="etiquetaIndice" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="fecha" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="modificable" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pubmedID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="revista" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tipoArt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titulo" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="relacionEtiquetas" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Etiquetas" inverseName="relacionLectCrit" inverseEntity="Etiquetas" syncable="YES"/>
+        <relationship name="relacionRespuestas" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Respuestas" inverseName="relacionLectCrit" inverseEntity="Respuestas" syncable="YES"/>
+        <relationship name="relacionRevisor" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Revisor" inverseName="relacionLectCrit" inverseEntity="Revisor" syncable="YES"/>
+    </entity>
+    <entity name="Respuestas" representedClassName="Respuestas" syncable="YES">
+        <attribute name="c0" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plantillaID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r0" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r12" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="relacionLectCrit" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="LectCrit" inverseName="relacionRespuestas" inverseEntity="LectCrit" syncable="YES"/>
+    </entity>
+    <entity name="Revisor" representedClassName="Revisor" syncable="YES">
+        <attribute name="revisorEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="revisorID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="revisorNombre" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="relacionLectCrit" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="LectCrit" inverseName="relacionRevisor" inverseEntity="LectCrit" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Etiquetas" positionX="-416" positionY="-120" width="128" height="75"/>
+        <element name="LectCrit" positionX="-677" positionY="-216" width="128" height="210"/>
+        <element name="Respuestas" positionX="-272" positionY="-243" width="128" height="465"/>
+        <element name="Revisor" positionX="-407" positionY="30" width="128" height="105"/>
+    </elements>
+</model>

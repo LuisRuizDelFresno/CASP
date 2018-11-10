@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bloque</key>
+		<string>A/ Are the results of the trial valid?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>1. Did the trial address a clearly focused issue?</string>
+				<key>literalC</key>
+				<string>1. Clearly focused issue?</string>
+				<key>caracter</key>
+				<string>Screening Questions</string>
+				<key>pista</key>
+				<string>An issue can be &apos;focused&apos; in terms of:
+- The population studied
+- The intervention given
+- The comparator given
+- The outcomes considered</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>2. Was the assignment of patients to treatments randomized?</string>
+				<key>literalC</key>
+				<string>2. Random assignment?</string>
+				<key>caracter</key>
+				<string>Screening Questions</string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>3. Were all of the patients who entered the trial properly accounted for at its conclusion?</string>
+				<key>literalC</key>
+				<string>3. Intention to treat analysis?</string>
+				<key>caracter</key>
+				<string>Screening Questions</string>
+				<key>pista</key>
+				<string>- Was follow up complete?
+- Were patients analysed in the groups to which they were randomised?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>4. Were patients, health workers and study personnel ‘blind’ to treatment?</string>
+				<key>literalC</key>
+				<string>4. Double/triple blind?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Were the patients
+- Were the health workers
+- Were the study personnel</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>5. Were the groups similar at the start of the trial?</string>
+				<key>literalC</key>
+				<string>5. Comparable at the start?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>In terms of other factors that might effect the outcome such as age, sex, social class.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>6. Aside from the experimental intervention, were the groups treated equally?</string>
+				<key>literalC</key>
+				<string>6. Co-interventions similar?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>B/ Important results?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>7. How large was the treatment effect?</string>
+				<key>literalC</key>
+				<string>7. Large results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>What outcomes are measured?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>8. How precise was the estimate of the treatment effect?</string>
+				<key>literalC</key>
+				<string>8. Precise results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>What are its confidence limits?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>C/ Will the results help locally?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>9. Can the results be applied to the local population?</string>
+				<key>literalC</key>
+				<string>9. Applicable in your context?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Do you think that the patients covered by the trial are similar enough to your population?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>10. Were all clinically important outcomes considered?</string>
+				<key>literalC</key>
+				<string>10. Important Outcome</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>If not, does this affect the decision?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>11. Are the benefits worth the harms and costs?</string>
+				<key>literalC</key>
+				<string>11. Risks and costs offset?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>This is unlikely to be addressed by the trial. But what do you think?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

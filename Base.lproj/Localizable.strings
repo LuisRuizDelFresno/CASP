@@ -1,0 +1,272 @@
+/* 
+  Localizable.strings
+  CASPe
+
+  Created by Luis Ruiz del Fresno on 12/07/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+// CLAVE            = Valor que toma en inglés;
+
+"Recomendacion"     = "Remenber:";
+"MensajeRecomendacion" = "Write your name and e-mail address in the CASP section of your device Settings. It will help you to sign your appraisals.";
+"Vale"                = "Right";
+
+"Lectura Crítica"   = "Critical Appraisal";
+"Lecturas"          = "Topics";
+"Pendiente de Lectura" = "Appraisal pending";
+"Descargando"       = "Downloading ...";
+
+"año/s"             = "year/s";
+
+"bloque 1"          = "In patientes with THIS DISEASE and a %0.0f%% BASAL RISK for developing THIS ADVERSE OUTCOME in %@; "; //RABasal, tiempoSeguimiento.
+
+"bloque 2.1"        = "this experimental treatment for %@ can be BETTER than control treatment: the point stimation of its effect is one outcome less in every %0.0f treated patients (95%% sure treating %0.0f to %0.0f patients). This difference is statistically significant.\nNow, we have to evaluate wether it is clinically significant too."; //TiempoTt //NNT, nntIC95-SUP, nntIC95-INF"
+
+"bloque 2.2"        = "this experimental treatment for %@ does NOT produce an STATISTICALLY SIGNIFICANT DIFFERENCE compared to control treatment. "; //TratamientoTpo
+
+"bloque 2.3"        = "this experimental treatment for %@ can be WORST than control treatment: the point stimation of its effect is approximately one additional outcome in every %0.0f treated patients (95%% sure treating %0.0f to %0.0f patients). This difference is statistically significant\nNow, we have to evaluate wether it is clinically significant too."; //TiempoTto, NNT, INF SUP
+
+"bloque 3.1"        = "Even though the point stimation of its effect is BENEFICIAL, indicating it could avoid in average one outcome in every %0.0f treated patients (perhaps one in every %0.0f treated patients), data are ALSO COMPATIBLE WITH BEING HARMFUL and able to cause in average one additional outcome in every %0.0f treated patients.\nNow, we have to evaluate its clinical significance.";//NNT, nnt-SUP, nnt-INF
+
+"bloque 3.2"        = "Even though the point stimation of its effect is HARMFUL, indicating it could induce in average one additional outcome in every %0.0f treated patients (perhaps one in every %0.0f treated patients), data are ALSO COMPATIBLE WITH BEING BENEFICIAL and able to avoid in average one outcome in every %0.0f treated patients.\nNow, we have to evaluate its clinical significance."; //NNT, nnt-INF, nnt-SUP 
+
+"calculadoraNNT"    = "NNT Calculator";
+"calculadoraDiag"   = "PostTest Probability Calculator";
+
+"Casos y Controles" = "Case Control Study";
+"Cohortes"          = "Cohort Study";
+"Ensayo Clínico"    = "Randomized Control Trial";
+"Estudios Cualitativos" = "Qulitative Research";
+"Evaluación Económica"  = "Economic Evaluations";
+"Reglas de Predicción Clínica"  = "Clinical Prediction Rule";
+"Revisión"          = "Systematic Review";
+"Test Diagnóstico"  = "Diagnostic Test Study";
+
+"De acuerdo"        = "OK";
+"día/s"             = "day/s";
+
+"tituloHeaderSeccion"= "How will you calculate NNT?";
+"segmentAbsRaw0"    = "Absolute Risks";
+"segmentAbsRaw1"    = "Raw Data";
+
+"EnlaceACalcNNT"    = "Do you need to calculate NNT?";
+"EnlaceACalcDiag"   = "Do you need to calculate Post-Test Pr?";
+"espeIC95Label"     = "Sp: %0.0f (%0.0f-%0.0f)";
+"EtiquetaRRA"       = "ARR:";
+
+"Interpretación NNT"= "NNT Interpretation";
+
+"mes/es"            = "month/s";
+
+"NNT95LabelSinIC"   = "NNT: %0.1f (%0.0f a %0.0f)"; //NO USADO
+"NNTNeg95Label"     = "NNH: %0.1f; 95%%CI: %0.1f to %0.1f";  //NO USADO
+"NNTInterpretacion" = "%@ 95%%CI: %@ %@ %@";
+"NNTInterpretacionConexionInfinito" = "to infinity to";
+"NNTInterpretacionConexionA"    = "to";
+
+"NNT %0.0f (IC95%%: %0.0f a %0.0f)" = "NNT %0.0f (95%%CI: %0.0f to %0.0f)";
+"NNT95Label"        = "NNT: %0.1f; 95%%CI: %0.1f to %0.1f";
+"NNTLabel"          = "NNT: %0.0f";
+"No"                = "No";
+"No sé"             = "Can't tell";
+"NoResponde"        = "No answer";
+
+"ResultadosRCTGen"      = "NNT: %0.0f.\nBasal risk: %0.1f%%.\n";
+"ResultadosRCTDesdeRiesgos" =  "NNT: %0.0f.\nBasal risk: %0.1f%%.\nARR: %0.1f%%.\n";
+"ResultadosRCTDesdeRaw"     = "In the Experimental group %0.0f patients out of %0.0f developed the outcome, vs %0.0f out of %0.0f in the Control group.\nNNT is %0.0f (95%%IC: %0.1f, %0.1f), being the Basal risk %0.1f%%.\n";
+"InterpretacionNNT" = "NNT Interpretation";
+"NecesitaLosTiempos" = "Length of treatment and follow up are requiered";
+
+"ResultadosDiag"    = "Likelihood ratio: %0.1f.\nIf the PreTest probability were: %0.0f%%.\nPostTest probability would be: %0.0f%%.\n";
+"ResultadosDiagSE"  = "Sensitivity: %0.0f%%.\nSpecificity: %0.0f%%.\nLikelihood ratio for %@: %0.1f.\nIf the PreTest probability were: %0.0f%%.\nPostTest probability would be: %0.0f%%.\n";
+"ResultadosDiagRaw" = "There were %0.0f positives in %0.0f cases, and %0.0f negatives in %0.0f non-cases.\nIt means Sensitivity: %0.0f%%, Specificity: %0.0f%%.\nLikelihood ratio for %@: %0.1f (95%%IC: %0.1f-%0.1f).\nIf the PreTest probability were: %0.0f%%.\nPostTest probability would be: %0.0f%%.\n";
+"ResultadosDiagGen" = "Likelihood ratio: %0.1f.\nIf the PreTest probability were: %0.0f%%.\nPostTest probability would be: %0.0f%%.\n";
+"ResultadosDiagGenSE" = "Likelihood ratio for %@: %0.1f.\nIf the PreTest probability were: %0.0f%%.\nPostTest probability would be: %0.0f%%.\n";
+"ResultadosDiagGenRaw" = "Likelihood ratio for %@: %0.1f (95%%IC: %0.1f-%0.1f).\nIf the PreTest probability were: %0.0f%%, PostTest probability would be: %0.0f%%.\n";
+
+"Enviar por SMS"    = "To SMS (plain text)";
+"Lectura Crítica - www.redcaspe.org" = "Critical Appraisal - www.casp-uk.net";
+
+"Pistas"            = "Hints";
+"postLabelVacia"    = "Post-Test Pr:";
+"postLabel"         = "Post-Test Pr: %0.0f %%";
+"PreTestLabel"      = "Pre-Test Pr: %0.0f %%";
+"HeaderLabelText"   = "How will you calculate LR?";
+"Uno"               = "I got it";
+"Dos"               = "Sensi / Spec";
+"Tres"              = "Raw Data";
+
+"RBasalEtiqueta"    = "BASAL R";
+"reducRiesgoAbs95LabelVacia" = "Absolute Risk Reduction (95%CI):";
+"reducRiesgoAbsLabelVacia" = "Absolute Risk Reduction:";
+"redRisrelLabVacia" = "RRR:";
+"riesgoBasalLabel"  = "Con R: %0.0f%%";
+"riesgoBasalLabelSmall" = "Con R: %0.1f%%";
+"riesgoConLabelVacia" = "Con Abs Risk:";
+"riesgoExpLabel"    = "Exp R: %0.0f%%";
+"riesgoExpLabelSmall" = "Exp R: %0.1f%%";
+
+"riesgoExpLabelVacia" = "Exp Abs Risk:";
+"riesgoRelaLabel" = "Relative Risk: %0.1f";
+"riesgoRelLabelVacia" = "Relative Risk:";
+"RRA95Label"        = "Absolute Risk R: %0.0f%% (%0.1f to %0.1f)";
+"RRA95LabelSmall"        = "Absolute Risk R: %0.1f%% (%0.1f to %0.1f)";
+
+"RRALabel"          = "Absolute Risk R: %0.0f%%";
+"RRRLabel"          = "RRR %0.1f";
+
+"etiquetaNNTBeneficio" = "NNT (Benefit)";
+"etiquetaNNTHarm"   = "NNH (Harm)";
+
+"rv95LabelT+"       = "LR (positive): %0.1f (95%%CI: %0.1f-%0.1f)"; 
+"rv95LabelT-"       = "LR (negative): %0.2f (95%%CI: %0.2f-%0.2f)";
+"rv95LabelVacia"    = "Likelihood Ratio (95%CI):";
+"rvCalcLabel+"      = "Likelihood Ratio (positive): %0.1f";
+"rvCalcLabel-"      = "Likelihood Ratio (negative): %0.1f";
+"rvCalcLabel"       = "Likelihood Ratio:";
+
+"Referencia"        = "Reference";
+"Título"            = "Issue";
+"Revista"           = "Journal";
+"PubMedID"          = "PubMedID";
+
+"PubMedID"          = "PubMedID";
+"Lectura Crítica"   = "Critical Appraisal";
+"Comentarios"       = "Comments";
+"Revisor"           = "Reviewer";
+"Nombre"            = "Name";
+"Correo"            = "E-Mail";
+"Fecha"             = "Date";
+"Etiquetas"         = "Tags";
+"Escriba aquí el Título" = "Write here a short title";
+"Escriba aquí la Revista" = "Write here the article citation or if you know its PubMedID or DOI touch on the left side of this row to import it from PubMed";
+"Escriba aquí el PubMedID" = "Input PubMedID/DOI here to import";
+"Escriba aquí sus comentarios" = "Write here your comments";
+"EtiquetaIndicePorDefecto" = "Unindexed";
+
+"NoSeEncuentraPorDoi" = "Not found by doi, try with PubMedID";
+
+"comentarios"       = "Comments:";
+
+"InfoCASP"          = "CASP Information";
+
+"Recuerde"          = "Remenber";
+
+"Autor no detectado"   = "No Author detected";
+"Titulo no detectado" = "No Title detected";
+"Revista no detectada" = "No Journal detected";
+
+"TituloPubMedAlertView" = "To import a reference from PubMed: input PubMedID and choose PubMed.";
+"Desde PubMed"      = "PubMed";
+"Manualmente"       = "Cancel";
+
+"Cita"              = "Appraisal";
+"Previo"            = "Previous";
+"Siguiente"         = "Next";
+"Creando una L Crítica Nueva" = "Creating a new appraisal";
+"Cancelar"          = "Cancel";
+"Fecha"             = "Date";
+"Copia modificable" = "Do an editable copy";
+"Enviar por correo" = "To E-Mail (CASP+PDF)";
+"Borrar esta Lectura" = "Delete this Appraisal";
+"¿Quiere borrar está lectura?" = "Do you want to delete this appraisal?";
+"Pulsando Sí la borrará de forma definitiva" = "Selecting Yes, it will be permanently deleted";
+"Una Lectura Crítica" = "A Critical Appraisal";
+"¡Revise esta Lectura Crítica! Necesitará tener instalada CASP, luego pulse en el icono para abrirla." = "Check out this Critical Appraisal!  You'll need a copy of CASP to view this file, then tap and hold to open.";
+"Escriba una etiqueta nueva" = "Write a new tag";
+"Seleccione las que desee" = "WHAT TAGS YOU'LL ASSING?";
+"Editar"            = "Edit";
+
+"pista"             = "Hint:";
+
+"Pulse aquí para crear una lectura crítica" = "Tap here to create a Critical Appraisal";
+"Modificar Etiquetas" = "Edit Tags";
+"Esta reseña NO tiene una Lectura Crítica" = "This reference hasn't got a Critical Appraisal";
+"¿Quiere hacerla ahora?" = "Are you going to create it now?";
+"No"                = "No";
+"Sí"                = "Yes";
+"SíEnRespuestas"    = "Yes / Good";
+"NoEnRespuestas"    = "No / Poor";
+
+"TituloActionSheetAcciones" = "What do you wish to do with this Appraisal?";
+"Guardar como PDF"  = "Export to PDF";
+
+"Lectura %@"        = "Critical Appraisal: %@";
+
+"Page %d"           = "Page %d";
+
+"Índice"            = "Index";
+
+"Esta reseña YA tiene una Lectura Crítica previa" = "Already exists a Critical Appraisal for this reference";
+"¿Quiere modificar la existente o duplicar la lectura para conservar 2 versiones?" = "Do you want to edit it, or to duplicate it and keep the old and new versions?";
+"Modificar"         = "Edit";
+"Duplicar"          = "Duplicate";
+"Revisor por Defecto" = "Default Reviewer";
+"Si quiere modificar sus datos, puede hacerlo en Ajustes" = "If you want to modify reviewer's data, you can do it in Settings";
+"De acuerdo"        = "Ok";
+"Ok"                = "Done"; //Es el texto de un botón en el menú etiquetas
+
+"Copiar los Resultados en Comentarios" = "Copy Results in Comments";
+"El test"           = "This test";
+"El test positivo"  = "A positive result";
+"El test negativo"  = "A negative result";
+", potente."        = ", strong.";
+" %@ tiene una Razón de Veromilitud de %0.1f%@ Con una probabilidad PreTest de %0.0f%% la probabilidad PostTest sería %0.0f%%"  = " %@ has a likelihood ratio of %0.1f%@ When PreTest probability is %0.0f%% PostTest probability goes to %0.0f%%";
+
+"Seguimnt"          = "FollowUp";
+"semana/s"          = "week/s";
+"senIC95Label"      = "Sn: %0.0f (%0.0f-%0.0f)";
+"SenEspValidValues" = "Sensitivity and Specificity only admit values between 0 and 100";
+
+"tituloCalcNNT"     = "NNT";
+"tituloCalculadoras"= "Calculators";
+"titleDiagVC"       = "Post-Test Probability";
+"TituloInfoVC"      = "About CASP"; 
+"TituloGlosarioVC"  = "Glossary";
+"TituloPlantillaVC" = "Checklists";
+"Tratamnt"          = "Treatmnt";
+
+"ValorNoValido"     = "Invalid Input";
+"ValorValido"       = "Absolute risks only admit values between 0 and 100";
+
+"No especificado" = "Not specified";
+
+//Respecto a la interpretación escrita del intervalo de confianza del NNT, sigue el siguiente esquema
+/*
+ 
+ A              En pacientes con esta enfermedad y un riesgo basal de desarrollar este desenlace adverso del %0.1f %% en %@. El uso de A   
+                (en vez de B), durante %@	
+    
+                In patients with this disease, and %0.1f  basal risk to develop this outcome. Use of treatment A (instead of B), for %@”
+ 
+ B1: Si RRA/NNT estimado es positivo	
+                podría ser BENEFICIOSO, evitaría en promedio 1 desenlace adverso por cada %0.0f pacientes tratados	
+ 
+                could be BENEFICIAL, avoiding in average 1 adverse outcome for every &0.0f patients treated
+ 
+ B11 (resultado pos y significativo)	
+                (IC95%%: %0.0f a %0.0f [cuanto mayor es el valor de NNT más pequeño es el beneficio]). Esta diferencia es estadísticamente significativa.	
+            
+                (95%%CI: %0.0f to %0.0f [the bigger the NNT value, the smaller the benefice]).  This difference is statistically significant.
+ 
+ B12 (resultado pos pero no significativo)	
+                , pero esta diferencia NO es estadísticamente significativa (IC95%%: %0.0f a %0.0f), ya que el IC95%% es compatible con que A fuese ineficaz o incluso perjudicial. Concretamente IC95%% va desde que A produjese un desenlace perjudicial adicional tratando entre %0.0f e infinitos pacientes, hasta que evitase un desenlace tratando entre infinitos y %0.0f pacientes (IC95%%: perjudicial con %0.0f a inifinitos, hasta beneficioso con infinitos a %0.0f, ver gráfico).	
+            
+                , but this differenece is NOT statistically significant (95%%CI: %0.0f to %0.0f), because 95%%CI is compatible with A be ineffective or even harmful. Specifically this 95%%CI is compatible with all results between inducing 1 additional adverse outcome for every %0.0f or more patients treated in the harmful end, and avoiding 1 adverse outcome for every %0.0f or more patients treated in the beneficial end (in other words: 95%%CI: harmful treating from %0.0f to infinite, and beneficial treating from infinite to %0.0f patients, see “graphic interpretation”).
+ 
+ B2 (resultado negativo)	
+                podría ser PERJUDICIAL, produciría en promedio 1 desenlace adverso por cada %0.0f pacientes tratados	
+ 
+                could be HARMFUL, inducing in average 1 additional adverse outcome for every %0.0f patients treated
+ 
+ B21 (result negativo y signi)	
+                (IC95%%: %0.0f a %0.0f). Esta diferencia es estadísticamente significativa.	
+ 
+                (95%%CI: %0.0f to %0.0f). This difference is statistically significant.
+ 
+ B22 (resul negativo pero No signi)	es igual a B12.
+                , pero esta diferencia NO es estadísticamente significativa (IC95%%: %0.0f a %0.0f), ya que el IC95%% es compatible con que A fuese ineficaz o  beneficioso. Concretamente IC95%% va desde que A produjese un desenlace perjudicial adicional tratando entre %0.0f e infinitos pacientes, hasta que evitase un desenlace tratando entre infinitos y %0.0f pacientes (IC95%%: perjudicial con %0.0f a inifinitos, hasta beneficioso con infinitos a %0.0f, ver gráfico).	
+ 
+                , but this differenece is NOT statistically significant (95%%CI: %0.0f to %0.0f), because 95%%CI is compatible with A be ineffective or even harmful. Specifically this 95%%CI is compatible with all results between inducing 1 additional adverse outcome for every %0.0f or more patients treated in the harmful end, and avoiding 1 adverse outcome for every %0.0f or more patients treated in the beneficial end (in other words: 95%%CI: harmful treating from %0.0f to infinite, and beneficial treating from infinite to %0.0f patients, see “graphic interpretation”).
+*/

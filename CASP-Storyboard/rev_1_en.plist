@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bloque</key>
+		<string>A/ Are the results of the review valid?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>1. Did the review address a clearly focused question?</string>
+				<key>literalC</key>
+				<string>1. Question clearly focused?</string>
+				<key>caracter</key>
+				<string>Screening Questions</string>
+				<key>pista</key>
+				<string>An issue can be &apos;focused&apos; in terms of:
+- The population studied.
+- The intervention given.
+- The outcome considered.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>2. Did the authors look for the appropriate sort of papers?</string>
+				<key>literalC</key>
+				<string>2. Search strategy: Appropriate?</string>
+				<key>caracter</key>
+				<string>Screening Questions</string>
+				<key>pista</key>
+				<string>The &apos;best sort of studies&apos; would:
+- Address the review&apos;s question.
+- Have an appropriate study design (ususally RCTs for papers evaluating interventions).</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>3. Do you think the important, relevant ￼￼￼￼studies were included?</string>
+				<key>literalC</key>
+				<string>3. All important studies included?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Look for:
+- Which bibliographic databases were used.
+- Follow up from reference lists.
+- Personal contact with experts.
+- Search for unpublished as well as published studies.
+- Search for non-English language studies.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>4. Did the review’s authors do enough to assess the quality of the included studies?</string>
+				<key>literalC</key>
+				<string>4. Study quality: Assessed?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>The authors need to consider the rigour of the studies they have identified. Lack of rigour may affect the studies&apos; results (“All that glisters is not gold” Merchant of Venice – Act II Scene?)</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>5. If the results of the review have been combined, was it reasonable to do so?</string>
+				<key>literalC</key>
+				<string>5. Are those studies combinable?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider whether:
+- The results were similar from study to study.
+- The results of all the included studies are clearly displayed.
+- The results of the different studies are similar.
+- The reasons for any variations in results are discussed.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>B/ Important results?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>6. What are the overall result of the reviews?</string>
+				<key>literalC</key>
+				<string>6. Large results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider
+- If you are clear about the review’s ‘bottom line’ results:
+- What these are (numerically if appropriate).
+- How were the results expressed (NNT, odds ratio etc.).</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string>Lo mismo que en los otrso tipos: que meta datos y los juzge en bien, regular mal</string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>7. How precise are the results?</string>
+				<key>literalC</key>
+				<string>7. Precise results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Look at the confidence intervals, if given.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string>Lo mismo que en los otrso tipos: que meta datos y los juzge en suficientemente preciso, regular poco...</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>C/ Will the results help locally?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>8. Can the results be applied to the local population?</string>
+				<key>literalC</key>
+				<string>8. Applicable to your context?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider whether:
+- The patients covered by the review could be sufficiently different to your population to cause concern.
+- Your local setting is likely to differ much from that of the review.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>9. Were all important outcomes Yes considered?</string>
+				<key>literalC</key>
+				<string>9. Important outcomes considered?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>10. Are the benefits worth the harms and costs?</string>
+				<key>literalC</key>
+				<string>10. Is it worth risks/costs?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Even if this is not addressed by the review, what do you think?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

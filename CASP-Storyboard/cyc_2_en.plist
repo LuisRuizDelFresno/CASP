@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>casp_uk_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>©Critical Appraisal Skills Programme (CASP) Case Control Study Checklist 31.05.13</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>How to use this appraisal tool
+Three broad issues need to be considered when appraising a case control study:
+- Are the results of the trial valid?      (Section A)
+- What are the results?      (Section B)
+- Will the results help locally?      (Section C)
+The 11 questions on the following pages are designed to help you think about these issues systematically.
+The first two questions are screening questions and can be answered quickly. If the answer to both is “yes”, it is worth proceeding with the remaining questions.
+
+There is some degree of overlap between the questions, you are asked to record a “yes”, “no” or “can’t tell” to most of the questions. A number of italicised prompts are given after each question. These are designed to remind you why the question is important. Record your reasons for your answers in the spaces provided.
+
+There will not be time in the small groups to answer them all in detail!</string>
+	<key>pagina1Marca</key>
+	<string>©CASP This work is licensed under the Creative Commons Attribution - NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ www.casp-uk.net</string>
+	<key>pagina1Programa</key>
+	<string></string>
+	<key>pagina1TipoArt</key>
+	<string>11 questions to help you make sense of case control study￼￼</string>
+	<key>recuerde</key>
+	<string>One observational study rarely provides sufficiently robust evidence to recommend changes to clinical practice or within health policy decision making.
+However, for certain questions observational studies provide the only evidence.
+Recommendations from observational studies are always stronger when supported by other evidence.</string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ Are the results of the study valid?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Screening question</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. Did the study address a clearly focused issue?</string>
+					<key>literalC</key>
+					<string>1. Clearly focused issue?</string>
+					<key>pista</key>
+					<string>A question can be focused in terms of:
+- The population studied
+- The risk factors studied
+- Whether the study tried to detect a beneficial or harmful effect?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Screening question</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Pregunta imprecisa: ¿diseño? mejor que método</string>
+					<key>literal</key>
+					<string>2. Did the authors use an appropriate method to answer their question?</string>
+					<key>literalC</key>
+					<string>2. Is case-control appropriate?</string>
+					<key>pista</key>
+					<string>Consider
+- Is a case control study a n appropriate way of answering the question under the circumstances? (is the outcome rare or harmful)
+- Did it address the study question?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. Were the cases recruited in an acceptable way?</string>
+					<key>literalC</key>
+					<string>3. Cases well recruited?</string>
+					<key>pista</key>
+					<string>We are looking for selection bias which might compromise validity of the findings:
+- Are the cases defined precisely?
+- Were the cases representative of a defined population (geographically and/or temporally)?
+- Was there an established reliable system for selecting all the cases?
+- Are they incident or prevalent?
+- Is there something special about the cases?
+- Is the time frame of the study relevant to disease/exposure?
+- Was there a sufficient number of cases selected?
+- Was there a power calculation?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. Were the controls selected in an acceptable way?</string>
+					<key>literalC</key>
+					<string>4. Controls well selected?</string>
+					<key>pista</key>
+					<string>We are looking for selection bias which might compromise the generalisability of the findings:
+- Were the controls representative of a defined population (geographically and/or temporally)?
+- Was there something special about the controls?
+- Was the non-response high? Could non-respondents be different in any way?
+- Are they matched, population based or randomly selected?
+- Was there a sufficient number of controls selected?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. Was the exposure accurately measured to minimise bias?</string>
+					<key>literalC</key>
+					<string>5. Exposure well measured?</string>
+					<key>pista</key>
+					<string>We are looking for measurement, recall or classification bias:
+- Was the exposure clearly defined and accurately measured?
+- Did the authors use subjective or objective measurements?
+- Do the measures truly reflect what they are supposed to measure? (Have they been validated?)
+- Were the measurement methods similar in the cases and controls?
+- Did the study incorporate blinding where feasible?
+- Is the temporal relation correct? (Does the exposure of interest precede the outcome?)</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. A. What confounding factors have the authors accounted for?
+B. Have the authors taken account of the potential confounding factors in the design and/or in their analysis?</string>
+					<key>literalC</key>
+					<string>6. Control of Confounding F.?</string>
+					<key>pista</key>
+					<string>- List the ones you think might be important, that the author missed (genetic, environmental and socio-economic).
+- Look for restriction in design, and techniques e.g. modelling, stratified-, regression-, or sensitivity analysis to correct, control or adjust for confounding factors</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ Important results?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. What are the results of this study?</string>
+					<key>literalC</key>
+					<string>7. Large results?</string>
+					<key>pista</key>
+					<string>CONSIDER:
+- What are the bottom line results?
+- Is the analysis appropriate to the design?
+- How strong is the association between exposure and outcome (look at the odds ratio)?
+- Are the results adjusted for confounding and might confounding still explain the association?
+- Has adjustment made a big difference to the OR?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. How precise are the results? How precise is the estimate of risk?</string>
+					<key>literalC</key>
+					<string>8.  Precise results?</string>
+					<key>pista</key>
+					<string>CONSIDER:
+- Size of the P-value
+- Size of the confidence intervals
+- Have the authors considered all the important variables?
+- How was the effect of subjects refusing to participate evaluated?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Imprecisa: ¿se busca una impresión global? ¿se busca si tienen plausibilidad biológica? </string>
+					<key>literal</key>
+					<string>9. Do you believe the results?</string>
+					<key>literalC</key>
+					<string>9. Are results logical?</string>
+					<key>pista</key>
+					<string>CONSIDER:
+- Big effect is hard to ignore!
+- Can it be due to chance, bias or confounding?
+- Are the design and methods of this study sufficiently flawed to make the results unreliable?
+- Consider Bradford Hills criteria (e.g. time sequence, dose-response gradient, strength, biological plausibility)</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ Will the results help me locally?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. Can the results be applied to the local population?</string>
+					<key>literalC</key>
+					<string>10. Applicable in your context?</string>
+					<key>pista</key>
+					<string>Consider whether
+- The subjects covered in the study could be sufficiently different from your population to cause concern
+- Your local setting is likely to differ much from that of the study
+- Can you quantify the local benefits and harms?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. Do the results of this study fit with other available evidence?</string>
+					<key>literalC</key>
+					<string>11. Coherent with other research?</string>
+					<key>pista</key>
+					<string>Consider all the available evidence from RCTs, systematic reviews, cohort studies and case-control studies as well for consistency. One observational study rarely provides sufficiently robust evidence to recommend changes to clinical practice or within health policy decision making.
+However, for certain questions observational studies provide the only evidence. Recommendations from observational studies are always stronger when supported by other evidence.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

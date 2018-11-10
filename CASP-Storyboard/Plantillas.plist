@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>cyc_1_es</string>
+		<key>corto</key>
+		<string>Casos Controles</string>
+		<key>imagen</key>
+		<string>cyC.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>coh_1_es</string>
+		<key>corto</key>
+		<string>Est. Cohortes</string>
+		<key>imagen</key>
+		<string>coh.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>rct_1_es</string>
+		<key>corto</key>
+		<string>Ensayo Clínico</string>
+		<key>imagen</key>
+		<string>ensayo.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>qua_1_es</string>
+		<key>corto</key>
+		<string>Est. Cualitativos</string>
+		<key>imagen</key>
+		<string>cuali.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>eco_1_es</string>
+		<key>corto</key>
+		<string>Eva. Económica</string>
+		<key>imagen</key>
+		<string>econo.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>pre_1_es</string>
+		<key>corto</key>
+		<string>Regla Predicción</string>
+		<key>imagen</key>
+		<string>rPronos.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>rev_1_es</string>
+		<key>corto</key>
+		<string>Revisión Sistemática</string>
+		<key>imagen</key>
+		<string>revis.png</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>dia_1_es</string>
+		<key>corto</key>
+		<string>T Diagnóstico</string>
+		<key>imagen</key>
+		<string>diag.png</string>
+	</dict>
+</array>
+</plist>

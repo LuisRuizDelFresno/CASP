@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bloque</key>
+		<string>A/ Is the economic evaluation valid?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>1. Was a well-defined question posed?</string>
+				<key>literalC</key>
+				<string>1. Aims well defined?</string>
+				<key>caracter</key>
+				<string>Screening question</string>
+				<key>pista</key>
+				<string>Is it clear what the authors are trying to achieve?
+- What is the perspective?
+- How many options are compared?
+- Are both costs and consequences considered?
+- What is the time horizon?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>2. Was a comprehensive description of the competing alternatives given?</string>
+				<key>literalC</key>
+				<string>2. Process well descripted?</string>
+				<key>caracter</key>
+				<string>Screening question</string>
+				<key>pista</key>
+				<string>Is there a clear decision tree (or similar given): Can you tell: 
+- Who did what, to whom, where and how often?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>3. Does the paper provide evidence that the programme would be effective (ie would the programme do more good than harm)?</string>
+				<key>literalC</key>
+				<string>3. Effectivity proven?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider if an RCT or systematic review was used; if not, consider how strong the evidence was.
+(Economic evaluations frequently have to integrate different types of knowledge stemming from different study designs).</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>4. Were the effects of the intervention identified, measured and valued appropriately</string>
+				<key>literalC</key>
+				<string>4. Effects measure: Right?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Effects can be measured in natural units (e.g. years of life) or more complex units (e.g. years adjusted for quality of life such as QALYs) or monetary equivalents of the benefit gained (e.g. $).</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>B/ How were consequences and costs assessed and compared?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>5. Were all important and relevant resources required and health outcome costs for each alternative identified, measured in appropriate units and valued credibly?</string>
+				<key>literalC</key>
+				<string>5. Costs evaluation: Right?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Identified?
+- Remember the perspective being taken.
+Measured accurately in appropriate units prior to evaluation?
+- Appropriate units may be hours of nursing time, number of physician visits, years-of-life gained etc.
+Valued credibly?
+- Are the values realistic?
+- How have they been derived?
+- Have opportunity costs been considered?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>6. Were costs and consequences adjusted for different times at which they occurred (discounting)?</string>
+				<key>literalC</key>
+				<string>6. Costs/Effects discounting?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>7. What were the results of the evaluation?</string>
+				<key>literalC</key>
+				<string>7. Large results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>What is the bottom line?
+What units were used (e.g. cost/life year gained, cost/QALY, Net benefit)</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string>sustituir por: ¿resultado útil? o permitir que el usuario introduzca valores que guarde al salir</string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>8. Was an incremental analysis of the consequences and costs of alternatives performed?</string>
+				<key>literalC</key>
+				<string>8. Incremental analysis?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>9. Was an adequate sensitivity analysis performed? </string>
+				<key>literalC</key>
+				<string>9. Sensitivity analysis?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider if all the main areas of uncertainty were considered by changing the estimate of the variable and looking at how this would change the result of the economic evaluation?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>C/ Will the results help in purchasing for local people?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>10. Is the programme likely to be equally effective in your context or setting?</string>
+				<key>literalC</key>
+				<string>10. Same performance in your context?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>Consider whether
+a) the patients covered by the review could be sufficiently different to your population to cause concern
+b) your local setting is likely to differ much from that of the review.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>11. Are the costs translatable to your setting?</string>
+				<key>literalC</key>
+				<string>10. Similar costs?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>12. Is it worth doing in your setting?</string>
+				<key>literalC</key>
+				<string>12. Is it worth in your setting?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string></string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

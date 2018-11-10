@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>casp_uk_logo.png</string>
+	<key>logo2</key>
+	<string>logo</string>
+	<key>pagina1CitameAsi</key>
+	<string>©Critical Appraisal Skills Programme (CASP) Randomised Controlled Trials Checklist 31.05.13</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>How to use this appraisal tool
+Three broad issues need to be considered when appraising the report of a randomised controlled trial:
+- Are the results of the trial valid?      (Section A)
+- What are the results?      (Section B)
+- Will the results help locally?      (Section C)
+The 11 questions on the following pages are designed to help you think about these issues systematically.
+The first two questions are screening questions and can be answered quickly. If the answer to both is “yes”, it is worth proceeding with the remainig questions.
+
+There is some degree of overlap between the questions, you are asked to record a “yes”, “no” or “can’t tell” to most of the questions. A number of italicised prompts are given after each question. These are designed to remind you why the question is important. Record your reasons for your answers in the spaces provided.
+
+There will not be time in the small groups to answer them all in detail!
+
+The 12 questions are adapted from: Drummond MF, Stoddart GL, Torrance GW. Methods for the economic evaluation of health care programmes. Oxford: Oxford University Press, 1987</string>
+	<key>pagina1Marca</key>
+	<string>©CASP This work is licensed under the Creative Commons Attribution - NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/. www.casp-uk.net</string>
+	<key>pagina1Programa</key>
+	<string></string>
+	<key>pagina1TipoArt</key>
+	<string>11 questions to help you make sense of a trial</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ Are the results of the trial valid?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. Did the trial address a clearly focused issue?</string>
+					<key>literalC</key>
+					<string>1. Clearly focused issue?</string>
+					<key>pista</key>
+					<string>An issue can be &apos;focused&apos; in terms of:
+- The population studied
+- The intervention given
+- The comparator given
+- The outcomes considered</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. Was the assignment of patients to treatments randomized?</string>
+					<key>literalC</key>
+					<string>2. Random assignment?</string>
+					<key>pista</key>
+					<string>Consider
+- How was this carried out?
+- Was the allocation sequence concealed from researchers and patients?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. Were all of the patients who entered the trial properly accounted for at its conclusion?</string>
+					<key>literalC</key>
+					<string>3. Intention to treat analysis?</string>
+					<key>pista</key>
+					<string>Consider
+- Was the trial stopped early?
+- Were patients analysed in the groups to which they were randomised?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. Were patients, health workers and study personnel ‘blind’ to treatment?</string>
+					<key>literalC</key>
+					<string>4. Double/triple blind?</string>
+					<key>pista</key>
+					<string>Think about
+- Patients?
+- Health workers?
+- Study personnel?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. Were the groups similar at the start of the trial?</string>
+					<key>literalC</key>
+					<string>5. Comparable at the start?</string>
+					<key>pista</key>
+					<string>Look at
+- Other factors that might effect the outcome such as age, sex, social class.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. Aside from the experimental intervention, were the groups treated equally?</string>
+					<key>literalC</key>
+					<string>6. Co-interventions similar?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ Important results?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. How large was the treatment effect?</string>
+					<key>literalC</key>
+					<string>7. Large results?</string>
+					<key>pista</key>
+					<string>Consider
+- What outcomes are measured?
+- Is the primary outcome clearly defined?
+- What results were found for each outcome?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. How precise was the estimate of the treatment effect?</string>
+					<key>literalC</key>
+					<string>8. Precise results?</string>
+					<key>pista</key>
+					<string>Consider
+- What are the confidence limits?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ Will the results help locally?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. Can the results be applied in your context? 
+(or to the local population?)</string>
+					<key>literalC</key>
+					<string>9. Applicable in your context?</string>
+					<key>pista</key>
+					<string>Consider wether
+- Do you think that the patients covered by the trial are similar enough to the patients to whom you will apply this?, if not how do they differ?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. Were all clinically important outcomes considered?</string>
+					<key>literalC</key>
+					<string>10. Important Outcome</string>
+					<key>pista</key>
+					<string>Consider
+- Is there other information you would like to have seen?
+- If not, does this affect the decision?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. Are the benefits worth the harms and costs?</string>
+					<key>literalC</key>
+					<string>11. Risks and costs offset?</string>
+					<key>pista</key>
+					<string>Consider
+- Even if this is not addressed by the trial, what do you think?</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

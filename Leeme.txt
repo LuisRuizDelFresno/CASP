@@ -1,0 +1,41 @@
+
+HACER UN VIDEO EXPLICANDO ESTO ES LARGO
+- capturar del iPad mini (si queremos mostrar el envio por mail, ...) con 5 minutos no llegamos a explicar info y las 2 primeras pantallas de Lecturas: son 150 megas en formato QuickTime (50 en 480), a pantalla completa en Youtube no se ven bien del todo.
+- Captura de un Simulador, me imagino que será lo mismo más o menos (quizás menso al ser pantalla más pequeña).
+- Sonido grabado con el micro de los auriculares de Apple demasiado bajo.
+- Habría que componer una presentación con imágenes fijas + sonido / subtítulos, y guardarlo como video: lo que hicimos con el otro video de CASP.
+- QUIZÁS LO MEJOR sea:
+    -- Esperar a ver si consigue instalar via TestFlight.
+    -- Si no funciona: explicar sólo la Interpretación en texto (español e inglés) y gráfico del NNT.
+
+*****
+IMÁGENES.
+Debemos cumplir las establecidas para iPhone (4 o 4s, a 6 Plus), todos son de pantalla retina. https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1
+- Un AppIcon Asset: que lleva los iconos @1x, @2x y @3x requeridos (Icono de la App en el dispositivo) y los recomendables (para el Spotlight, Settings)
+- Un LaunchImage asset: que lleva las pantallas de inicio de aplicación, para las pantallas de 3,5 (iPhone serie 4) y 4 pulgadas (iPhone serie 5).
+- Un Launch Screen.xib que hace de pantalla de incio para los iPhone 6 y 6Plus, dicéndole al dispositivo nuestra App soporta los tamaños de pantalla de los 6 y 6Plus; y que parece que utiliza también en las pantallas más pequeñas aunque haya pantalla de launch específicas en el asset anterior.
+- Un AppIcon para el Aplle Stroe de 1024, que se suministra aparte del bundle de la aplicación, en la página de iTunes Connect.
+- EL icono de info, 123, AZ y calcu ya están en @2x y @3x
+- Faltan importar. Los del glosario las estoy haciendo en *** con helvética, 10 puntos, 300 de resolución de salida, transparente, lo bajo como png. Con Vista Previa le cambio el tamaño al 73% (@3x) y después al 67% (@2x)
+- No tenemos que aportar ni las de Kiosko (Newsstand) ni los de los iPad (de momento).
+
+For all images and icons, the PNG format is recommended. You should avoid using interlaced PNGs.
+The standard bit depth for icons and images is 24 bits—that is, 8 bits each for red, green, and blue—plus an 8-bit alpha channel.
+
+
+******
+Colores tipo iOS 7 u 8
+- VERDE:    #4CD964
+- AMARILLO  #FFCCOO
+- ROJO      #FF3A2D
+
+*****
+Instrucciones sobre como usar TestFlight: https://www.youtube.com/watch?v=ncSGwJB-wkA
+
+******
+November 24th 2015:
+- Corrected preferredLanguage detection for iOS9 (LectCritViewController), for correctly detecting spanish and load the right plantilla plist
+- Corrected overlaping of short question spelling in cohort template in english, with the selected answer icon
+- Corrected a warning of unappropiate down count on releasing myColorspace in GraficoView2.m
+
+Repasar las Calculadoras en las pantallas de los 6 y 6-Plus

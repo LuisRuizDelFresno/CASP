@@ -1,0 +1,189 @@
+
+/* Class = "IBUISegmentedControl"; zzN-Hf-0j0.segmentTitles[0] = "Colores Superioridad"; ObjectID = "zzN-Hf-0j0"; */
+"zzN-Hf-0j0.segmentTitles[0]" = "Colores Superioridad";
+
+/* Class = "IBUISegmentedControl"; zzN-Hf-0j0.segmentTitles[1] = "Colores Equivalencia"; ObjectID = "zzN-Hf-0j0"; */
+"zzN-Hf-0j0.segmentTitles[1]" = "Colores Equivalencia";
+
+/* Class = "UISwitch"; headerTeatle = "Datos necesarios para la interpretación"; ObjectID = "ALW-fD-JDg"; */
+"ALW-fD-JDg.headerTitle" = "Datos necesarios para la interpretación";
+
+/* Class "UILabel"; text = "Length of Treatment"; ObjectID = "mO6-7H-w2e"; */
+"mO6-7H-w2e.text" = "Duración del Tratamiento";
+
+/* Class "UILabel"; text = "Length of Follow Up"; ObjectID = "vaT-k5-8xo"; */
+"vaT-k5-8xo.text" = "Duración del Seguimiento";
+
+/* Class "UILabel"; text = "Tap to Choose"; ObjectID = "dt5-5y-l0z"; */
+"dt5-5y-l0z.text" = "Escójala aquí";
+
+/* Class "UILabel"; text = "Tap to Choose"; ObjectID = "XNg-Z0-SR6"; */
+"XNg-Z0-SR6.text" = "Escójala aquí";
+
+/* Class "UILabel"; text = "Interpretación"; ObjectID = "9it-Zx-D0p"; */
+"9it-Zx-D0p.text" = "Interpretación";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "18Z-Au-t7n"; */
+"18Z-Au-t7n.normalTitle" = "Botón";
+
+/* Class = "IBUILabel"; text = "Absolute Risk Reduction (95%CI):"; ObjectID = "2fu-b4-1gF"; */
+"2fu-b4-1gF.text" = "Reduc Absoluta Ries (IC95%):";
+
+/* Class = "IBUILabel"; text = "Likelihood Ratio (95%CI):"; ObjectID = "2lH-iL-oDb"; */
+"2lH-iL-oDb.text" = "Coc Probabili (95%CI):";
+
+/* Class = "IBUILabel"; text = "Sensitivity"; ObjectID = "4Rp-uo-PMf"; */
+"4Rp-uo-PMf.text" = "Sensibilidad";
+
+/* Class = "IBUILabel"; text = "Exp"; ObjectID = "5Jh-Wv-USf"; */
+"5Jh-Wv-USf.text" = "Exp";
+
+/* Class = "IBUILabel"; text = "Pos"; ObjectID = "5jx-Rg-S3x"; */
+"5jx-Rg-S3x.text" = "Pos";
+
+/* Class = "IBUILabel"; text = "Gold Standard"; ObjectID = "5tW-Iu-UiK"; */
+"5tW-Iu-UiK.text" = "Patrón";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "6U6-tB-00r"; */
+"6U6-tB-00r.text" = "Título";
+
+/* Class = "IBUILabel"; text = "Abs Risk Experimental"; ObjectID = "6cv-NA-Wcj"; */
+"6cv-NA-Wcj.text" = "R Abs Experimental";
+
+/* Class = "IBUISegmentedControl"; 7Cj-kk-OJ5.segmentTitles[0] = "Test (+)"; ObjectID = "7Cj-kk-OJ5"; */
+"7Cj-kk-OJ5.segmentTitles[0]" = "Test (+)";
+
+/* Class = "IBUISegmentedControl"; 7Cj-kk-OJ5.segmentTitles[1] = "Test (-)"; ObjectID = "7Cj-kk-OJ5"; */
+"7Cj-kk-OJ5.segmentTitles[1]" = "Test (-)";
+
+/* Class = "IBUITabBarItem"; title = "Glossary"; ObjectID = "8Ra-CN-rMg"; */
+"8Ra-CN-rMg.title" = "Glosario";
+
+/* Class = "IBUITabBarItem"; title = "Appraisals"; ObjectID = "8bK-7c-nRg"; */
+"8bK-7c-nRg.title" = "Lecturas";
+
+/* Class = "IBUISegmentedControl"; 9W5-Fx-3zw.segmentTitles[0] = "Text Interpretation"; ObjectID = "9W5-Fx-3zw"; */
+"9W5-Fx-3zw.segmentTitles[0]" = "Interpretación Texto";
+
+/* Class = "IBUISegmentedControl"; 9W5-Fx-3zw.segmentTitles[1] = "Graphic Interpretation"; ObjectID = "9W5-Fx-3zw"; */
+"9W5-Fx-3zw.segmentTitles[1]" = "Interpretación Gráfica";
+
+/* Class = "IBUILabel"; text = "Relative Risk (95%CI):"; ObjectID = "BD5-Sv-h9J"; */
+"BD5-Sv-h9J.text" = "R Relativo (IC95%):";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "BGo-2n-hca"; */
+"BGo-2n-hca.text" = "Detalle";
+
+/* Class = "IBUILabel"; text = "Relative Risk:"; ObjectID = "C94-2h-cBM"; */
+"C94-2h-cBM.text" = "R Relativo:";
+
+/* Class = "IBUILabel"; text = "Pos"; ObjectID = "Cmy-u4-Tdh"; */
+"Cmy-u4-Tdh.text" = "Pos";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "Dbn-TX-w15"; */
+"Dbn-TX-w15.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Abs Risk Control"; ObjectID = "E4Y-bC-V3J"; */
+"E4Y-bC-V3J.text" = "R Abs Control";
+
+/* Class = "IBUILabel"; text = "Test"; ObjectID = "EQm-sW-lH1"; */
+"EQm-sW-lH1.text" = "Test";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Ezy-5b-x2v"; */
+"Ezy-5b-x2v.text" = "Título";
+
+/* Class = "IBUITabBarItem"; title = "Calculators"; ObjectID = "FCA-9z-ZKb"; */
+"FCA-9z-ZKb.title" = "Calculadoras";
+
+/* Class = "IBUILabel"; text = "Sp (95%CI)"; ObjectID = "FhL-t9-aiN"; */
+"FhL-t9-aiN.text" = "Esp (IC95%)";
+
+/* Class = "IBUILabel"; text = "Likelihood Ratio:"; ObjectID = "IWu-oE-Vf6"; */
+"IWu-oE-Vf6.text" = "Coc Probabili:";
+
+/* Class = "IBUILabel"; text = "Yes"; ObjectID = "Kb7-cS-ixV"; */
+"Kb7-cS-ixV.text" = "Sí";
+
+/* Class = "IBUILabel"; text = "Con Abs Risk:"; ObjectID = "Kqt-Wg-fXF"; */
+"Kqt-Wg-fXF.text" = "R Abs Con:";
+
+/* Class = "IBUILabel"; text = "Neg"; ObjectID = "LWI-aq-jhm"; */
+"LWI-aq-jhm.text" = "Neg";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "POz-Iz-v9H"; */
+"POz-Iz-v9H.text" = "Título";
+
+/* Class = "IBUILabel"; text = "PreTest Pr:"; ObjectID = "Qr6-Il-CbV"; */
+"Qr6-Il-CbV.text" = "Pr PreTest:";
+
+/* Class = "IBUILabel"; text = "Specificity"; ObjectID = "UyN-Ze-9Jg"; */
+"UyN-Ze-9Jg.text" = "Especificidad";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Vsa-by-Uwp"; */
+"Vsa-by-Uwp.text" = "Título";
+
+/* Class = "IBUILabel"; text = "Absolute Risk Reduction:"; ObjectID = "W3c-RR-ky8"; */
+"W3c-RR-ky8.text" = "Reduc Absoluta Riesgo:";
+
+/* Class = "IBUILabel"; text = "Outcome"; ObjectID = "Ykv-lU-iZP"; */
+"Ykv-lU-iZP.text" = "Resultado Adverso";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "akz-RR-0OH"; */
+"akz-RR-0OH.text" = "0";
+
+/* Class = "IBUILabel"; text = "RRR:"; ObjectID = "aps-Kn-MtJ"; */
+"aps-Kn-MtJ.text" = "RRR:";
+
+/* Class = "IBUILabel"; text = "PostTest Pr:"; ObjectID = "c2w-O2-XH5"; */
+"c2w-O2-XH5.text" = "Pr PostTest:";
+
+/* Class = "IBUINavigationItem"; title = "About CASP"; ObjectID = "cLN-ro-MUG"; */
+"cLN-ro-MUG.title" = "¿Qué es CASP?";
+
+/* Class = "IBUILabel"; text = "Sn (95%CI)"; ObjectID = "cum-MG-8JB"; */
+"cum-MG-8JB.text" = "Sen (IC95%)";
+
+/* Class = "IBUILabel"; text = "Tags"; ObjectID = "dp3-an-7yY"; */
+"dp3-an-7yY.text" = "Etiquetas";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "kc1-g5-UWV"; */
+"kc1-g5-UWV.text" = "Subtitulo";
+
+/* Class = "IBUILabel"; text = "Rx"; ObjectID = "lXv-cH-G4c"; */
+"lXv-cH-G4c.text" = "Tto";
+
+/* Class = "IBUILabel"; text = "No"; ObjectID = "mDY-AF-btv"; */
+"mDY-AF-btv.text" = "No";
+
+/* Class = "IBUILabel"; text = "Likelihood Ratio:"; ObjectID = "oDc-EW-CPf"; */
+"oDc-EW-CPf.text" = "Coc Probabili:";
+
+/* Class = "IBUILabel"; text = "NNT:"; ObjectID = "pag-Y7-BSy"; */
+"pag-Y7-BSy.text" = "NNT:";
+
+/* Class = "IBUILabel"; text = "Exp Abs Risk:"; ObjectID = "pnf-cq-W1O"; */
+"pnf-cq-W1O.text" = "R Abs Exp:";
+
+/* Class = "IBUITextField"; placeholder = "%"; ObjectID = "ppb-sm-nor"; */
+"ppb-sm-nor.placeholder" = "%";
+
+/* Class = "IBUITextField"; placeholder = "%"; ObjectID = "sDb-nL-R1o"; */
+"sDb-nL-R1o.placeholder" = "%";
+
+/* Class = "IBUILabel"; text = "Neg"; ObjectID = "sTB-n0-Cag"; */
+"sTB-n0-Cag.text" = "Neg";
+
+/* Class = "IBUILabel"; text = "Con"; ObjectID = "uh5-x3-7Bs"; */
+"uh5-x3-7Bs.text" = "Con";
+
+/* Class = "IBUISegmentedControl"; vki-XZ-fmR.segmentTitles[0] = "Test (+)"; ObjectID = "vki-XZ-fmR"; */
+"vki-XZ-fmR.segmentTitles[0]" = "Test (+)";
+
+/* Class = "IBUISegmentedControl"; vki-XZ-fmR.segmentTitles[1] = "Test (-)"; ObjectID = "vki-XZ-fmR"; */
+"vki-XZ-fmR.segmentTitles[1]" = "Test (-)";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "xNx-7M-A93"; */
+"xNx-7M-A93.text" = "100";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "yw0-36-fqJ"; */
+"yw0-36-fqJ.text" = "Detalle";

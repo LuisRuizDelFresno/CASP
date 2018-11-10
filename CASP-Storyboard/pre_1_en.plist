@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bloque</key>
+		<string>A/ Are the results of the study valid?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>1. Is the clinical prediction rule (CPR) clearly defined?</string>
+				<key>literalC</key>
+				<string>1. CPR well defined?</string>
+				<key>caracter</key>
+				<string>Screening questions</string>
+				<key>pista</key>
+				<string>- The type of patients to whom the CPR will be applied is clearly defined?
+- The variables included in the rule are clearly defined?
+- Is the outcome relevant and is clinically reasonable.(The outcome can be expressed as a probability or as course of action).</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>2. The population from which the rule was derived included an appropriate spectrum of patients?</string>
+				<key>literalC</key>
+				<string>2. Patients recruitment: Right?</string>
+				<key>caracter</key>
+				<string>Screening questions</string>
+				<key>pista</key>
+				<string>- Is it adequate the way the patients were selected?
+- The spectrum of patient to whom the rule will be apply is well represented?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>3. Was the rule validated in a different group of patients?</string>
+				<key>literalC</key>
+				<string>3. Is the rule validated?</string>
+				<key>caracter</key>
+				<string>Screening questions</string>
+				<key>pista</key>
+				<string>- It is not enough that the rule had a good performance on the patient Group used to derive it. The rule should be validated in a set of patients different from those who served to derive the rule
+- The validation was done in a group of patients similar to the one used to derive it.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>4. Were the predictor variables and the outcome evaluated in a blinded fashion?</string>
+				<key>literalC</key>
+				<string>4. Predictors/outcomes evaluation: Blind?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- People evaluating the outcome knew the predictor variables?
+- People evaluating the predictor variables knew the outcome?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>5. Were the predictor variables and the outcome evaluates in the whole sample selected initially?</string>
+				<key>literalC</key>
+				<string>5. Complete evaluation?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Are exclusions and drop outs well described anddo the authors discuss the reasons for them?
+- Sometimes the outcome cannot be measured in the same way in all patients.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>6. Are the statistical methods used to construct and validate the rule clearly described?</string>
+				<key>literalC</key>
+				<string>6. Statistics clearly described?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Were all important variables included and the positivity criteria explained?
+- The statistical method is adequately described?
+- Was the reliability of the rule considered?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>B/ Important results?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>7. Can the performance of the rule be calculated?</string>
+				<key>literalC</key>
+				<string>7. Large results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Performance results can be presented as: Sens , Sp,+ LR, -LR, ROC curve, calibration curves, etc.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string>Casi exige que el usuario meta datos y se guarden, y/o que lo sustituya por bueno, regular malo</string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>8. How precise are the results?</string>
+				<key>literalC</key>
+				<string>8. Precise results?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Think about the sample size and the number of variables included in the CPR
+- Is the rule robust? Has there been any attempt to refine it? Did they try to refine the rule with other variables to see whether the precision could be improved or the rule simplified?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string>Yo creo que hay que cambiarlo por intervalo de confianza.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>bloque</key>
+		<string>C/ Are the findings applicable to the scenario?</string>
+		<key>preguntas</key>
+		<array>
+			<dict>
+				<key>literal</key>
+				<string>9. Would the prediction rule be reliable and the results interpretable if used for your patient?</string>
+				<key>literalC</key>
+				<string>9. Extrapolable in your setting?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Is your setting too different from that of the study?</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>10. Is the rule acceptable in your case?</string>
+				<key>literalC</key>
+				<string>10. Feasible in your context?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- Consider the easy of use and the availability of the rule and the costs.
+- Consider if the rule is reasonable from a clinical point of view.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>literal</key>
+				<string>11. Would the results of the rule modify your decision about the management of the patient or the information you can give to him/her?</string>
+				<key>literalC</key>
+				<string>11. Will modify your practice?</string>
+				<key>caracter</key>
+				<string></string>
+				<key>pista</key>
+				<string>- In addition to your opinion, might there be studies analyzing the impact (in monetary terms or health results) of the rule?
+- If nothing will change, the rule is at best useless in terms of benefit to the patient.
+- Consider how the initial estimation has changed alter applying the rule, and the effect it has had on the action threshold.</string>
+				<key>color</key>
+				<string>whiteColor</string>
+				<key>comentario</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

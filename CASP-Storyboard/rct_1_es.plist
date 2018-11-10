@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>Esta plantilla debería citarse domo:
+Cabello, J.B. por CASPe. Plantilla para ayudarte a entender un Ensayo Clínico. En: CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica. Alicante: CASPe; 2005. Cuaderno I. p.5-8.</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+- Para valorar un ensayo hay que considerar tres grandes epígrafes:
+      ¿Son válidos los resultados del ensayo?
+      ¿Cuáles son los resultados?
+      ¿Pueden ayudarnos estos resultados?
+Las 11 preguntas de las siguientes páginas están diseñadas para ayudarte a centrarte en esos aspectos de modo sistemático.
+- Las primeras tres preguntas son de eliminación y pueden ser respondidas rápidamente. Si la respuesta a las tres es sí, entonces vale la pena continuar con las preguntas restantes.
+- Hay un cierto grado de solapamiento entre algunas de las preguntas.
+- En la mayoría de las preguntas se te pide que respondas sí, no o no sé.
+- En itálica y debajo de las preguntas encontrarás una serie de pistas para contestar a las mismas. Están pensadas para recordarte por qué la pregunta es importante. ¡En los pequeños grupos no suele haber tiempo para responder a todo con detalle!
+- Las 11 preguntas están tomadas y modificadas de: Guyatt GH, Sackett DL, Cook DJ, User&apos;s guides to the medical literature. II. How to use an article about therapy or prevention. JAMA 1993; 270: 2598-2601 and 271: 59-63</string>
+	<key>pagina1Marca</key>
+	<string>Estos materiales han sido desarrollados por CASP* Oxford y adaptados por CASP España (CASPe).
+* CASP (Critical Appraisal Skills Programme: Programa de habilidades en lectura crítica)</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia sobre la eficacia clínica</string>
+	<key>pagina1TipoArt</key>
+	<string>11 preguntas para entender un ensayo clínico</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Son válidos los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿Se orienta el ensayo a una pregunta claramente definida?</string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string>Una pregunta debe definirse en términos de:
+- La población de estudio. 
+- La intervención realizada. 
+- Los resultados considerados.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. ¿Fue aleatoria la asignación de los pacientes a los tratamientos?</string>
+					<key>literalC</key>
+					<string>2. ¿Asignación aleatoria?</string>
+					<key>pista</key>
+					<string>- ¿Se mantuvo oculta la secuencia de aleatorización?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿Fueron adecuadamente considerados hasta el final del estudio todos los pacientes que entraron en él?</string>
+					<key>literalC</key>
+					<string>3. ¿Seguimiento adecuado?</string>
+					<key>pista</key>
+					<string>- ¿El seguimiento fue completo? 
+- ¿Se interrumpió precozmente el estudio? 
+- ¿Se analizaron los pacientes en el grupo al que fueron aleatoriamente asignados?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿Se mantuvieron ciegos al tratamiento los pacientes, los clínicos y el personal del estudio?</string>
+					<key>literalC</key>
+					<string>4. ¿Doble/triple ciego?</string>
+					<key>pista</key>
+					<string>- Los pacientes. 
+- Los clínicos. 
+- El personal del estudio.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. ¿Fueron similares los grupos al comienzo del ensayo?</string>
+					<key>literalC</key>
+					<string>5. ¿Basalmente similares?</string>
+					<key>pista</key>
+					<string>En términos de otros factores que pudieran tener efecto sobre el resultado: edad, sexo, etc.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. ¿Al margen de la intervención en estudio los grupos fueron tratados de igual modo?</string>
+					<key>literalC</key>
+					<string>6. ¿Cointervenciones similares?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cuáles son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. ¿Es muy grande el efecto del tratamiento?</string>
+					<key>literalC</key>
+					<string>7. ¿Resultado importante?</string>
+					<key>pista</key>
+					<string>¿Qué resultados se midieron?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. ¿Cuál es la precisión de este efecto?</string>
+					<key>literalC</key>
+					<string>8. ¿Resultados precisos?</string>
+					<key>pista</key>
+					<string>¿Cuáles son sus intervalos de confianza?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/¿Pueden ayudarnos estos resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. ¿Pueden aplicarse estos resultados en tu medio o población local?</string>
+					<key>literalC</key>
+					<string>9. ¿Es aplicable en tu medio?</string>
+					<key>pista</key>
+					<string>¿Crees que los pacientes incluidos en el ensayo son suficientemente parecidos a tus pacientes?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Se tuvieron en cuenta todos los resultados de importancia clínica?</string>
+					<key>literalC</key>
+					<string>10. ¿Falta algo importante?</string>
+					<key>pista</key>
+					<string>En caso negativo, ¿en qué afecta eso a la decisión a tomar?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. ¿Los beneficios a obtener justifican los riesgos y los costes?</string>
+					<key>literalC</key>
+					<string>11. ¿Compensa riesgos y costes?</string>
+					<key>pista</key>
+					<string>Es improbable que pueda deducirse del ensayo pero, ¿qué piensas tú al respecto?</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

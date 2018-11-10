@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;2x2 Table: &lt;/b&gt;This is a tool for representing study results to allow for comparison of interventions and outcomes. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>2x2 Table</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Absolute Benefit Increase (ABI): &lt;/b&gt;The ABI is the absolute arithmetic difference in event rates of a desired positive outcome. This can be calculated by subtracting the Control Event Rate from the Experimental Event Rate. An absolute benefit increase is found when the experimental intervention does more good than the control.
+&lt;p&gt;&lt;img src=&quot;ABI@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Absolute Benefit Increase (ABI)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Absolute Risk Increase (ARI): &lt;/b&gt;The ARI is the absolute arithmetic difference in event rates of an adverse outcome. This can be calculated by subtracting the Control Event Rate from the Experimental Event Rate. An absolute risk increase is found when the experimental intervention harms more patients than the control.
+&lt;p&gt;&lt;img src=&quot;AbRI@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Absolute Risk Increase (ARI)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Absolute Risk Reduction (ARR): &lt;/b&gt;The ARR is the absolute arithmetic difference in event rates of an adverse event of interest between control group (CER) and experimental group (EER) when the experimental treatment prevents harm occurring to more patients than the control treatment.
+&lt;p&gt;&lt;img src=&quot;ARR@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Absolute Risk Reduction (ARR)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Accuracy (of a test): &lt;/b&gt;Is how good a test is at identifying whether a person has a condition. The main reason a test should achieve good accuracy is so that a treatment known to be effective in a particular condition can be just given to people who truly have the disease. Accuracy is not the only feature of a test we may need to evaluate. We can also assess repeatability (see below) and the impact of a test when used in combination with an appropriate treatment on a patient outcome like cure rate or survival (effectiveness).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Accuracy (of a test)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Action Research: &lt;/b&gt;Occurs when researchers design a field experiment, collect the data, and feed it back to the activists (ie. participants) both as feedback and as a way of modelling the next stage of the experiment.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Action Research </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Allocation Concealment: &lt;/b&gt;Refers to the employment of strategies to reduce the risk of the clinician knowing, prior to randomisation, what group the patient will be allocated to and seeks to reduce the risk of Selection Bias.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Allocation Concealment</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Applicability: &lt;/b&gt;Applicability refers to the relevance (often referred to as generalisability) of the research evidence to the patient(s) under consideration. Since studies may not be directly relevant to patients in clinical practice, it is usually best to ask the question, “Is the patient so different from those in this study that the results do not apply at all?”</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Applicability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Area Under the Receiver Characteristic Operating Curve (AUC): &lt;/b&gt;The area under the ROC curve (see ROC curve below) which is a measure of the overall discrimination of a test. An AUC of 0.5 indicates a useless test. An AUC of 1 indicates a perfect test. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Area Under the Receiver Characteristic Operating Curve (AUC)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;ARI: &lt;/b&gt;See Absolute risk increase</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>ARI</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;ARR: &lt;/b&gt;See Absolute risk reduction</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>ARR</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Bias: &lt;/b&gt;Is the deviation of results from the truth due to way(s) in which the study is conducted.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Blinding (Blind/Masked): &lt;/b&gt;Blinding is the employment of strategies to ensure that trialists and trial participants do not know to which intervention group the participant has been allocated. Not only can the patient and outcome assessor be blinded but also the provider, statistician, authors etc.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Blinding (Blind/Masked)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Case Series: &lt;/b&gt;A case series is a report on a group of patients without a control group.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Case Series</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Case Study: &lt;/b&gt;In depth analysis and systematic description of one patient or group of similar patients to promote a detailed understanding of their circumstances.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Case Study</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Case-Control Study: &lt;/b&gt;A case-control study involves identifying patients who have the outcome of interest (cases) and control patients without the same outcome, and looking back (retrospective) to see if they had the exposure of interest. This study design is useful for rare diseases or one that takes many years to develop.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Case-Control Study</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;CER: &lt;/b&gt;See Control Event Rate</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>CER</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;CI: &lt;/b&gt;See Confidence interval</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>CI</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Clinical Effectiveness: &lt;/b&gt;Is the extent to which an intervention (whether a treatment, procedure or service) improves the outcome for patients in practice.  It is also known simply as ‘effectiveness’.  A randomised controlled trial is the most trustworthy way of assessing clinical effectiveness.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Clinical Effectiveness</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Clinical Practice Guideline: &lt;/b&gt;A CPG is a systematically developed statement designed to assist both the practitioner and patient make appropriate health care decisions for specific clinical circumstances.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Clinical Practice Guideline</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Clinical Significance: &lt;/b&gt;A statistically significant result does not necessarily imply that it is useful in a clinical setting. Clinical significance is a matter of judgement which takes into account the clinical importance and applicability of the results. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Clinical Significance</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cochrane Collaboration: &lt;/b&gt;Is an international endeavour in which people from many different countries systematically find, appraise and review available evidence from RCTs.  The Collaboration aims to develop and maintain systematic, up-to-date reviews of RCTs of all forms of health care and to make this information readily available to clinicians and other decision-makers at all levels of health care systems. They are doing systematic reviews of test accuracy too.  Reviews are published in the Cochrane Library  The UK Cochrane Centre is based in Summertown in Oxford.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cochrane Collaboration</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cohort Study: &lt;/b&gt;A longitudinal study that begins with the identification of two groups (cohorts) of patients, of which one received the exposure of interest, and the other did not, and following these cohorts forward for the outcome of interest. Cohort studies are therefore useful when attempting to answer a question of a prognostic or aetiological nature. The researcher conducting the study, however, may begin the study at any time, as long as all the baseline information about the patients was collected during a specified time period and exposure status was determined before the outcomes were measured. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cohort Study</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Community Trial: &lt;/b&gt;A community trial seeks to examine effectiveness as opposed to efficacy. By utilising less strict inclusion and exclusion criteria the intervention is made available to a wider group (Community) of people than may have been the case in earlier studies. Consequently the results generated are more widely applicable</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Community Trial</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Co-morbidity: &lt;/b&gt;Is the existence of other disease.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Co-morbidity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Confidence Interval (CI): &lt;/b&gt;The CI is the range within which we would expect the true value of a statistical measure to lie (never exactly known). It is usually accompanied by a percentage value that shows the level of confidence that the true value lies within. For example, for a number needed to treat (NNT) of 10, with a 95% CI of 5 to 15, we would have 95% confidence that the true NNT value was between 5 and 15. When displayed in a graphical format, confidence intervals look like the following figure.
+&lt;p&gt;&lt;img src=&quot;CI@2x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;&lt;p&gt; Here we have five odds ratios (the blue squares), each with a 95% confidence interval around them (the horizontal line). Each odds ratio represents the results of a single randomised controlled trial (RCT). The blue shape on each CI shows the most likely value of the result, with the horizontal line showing the 95% confidence interval. When this horizontal line crosses the central vertical line, the result can be deemed to have no statistical significance. The lozenge shaped blob at the bottom represents the pooled and weighted results of the five RCT’s. In this case we have two individual trials that are not significant. However, when we combine the results of all five trials, we can see that the result is statistically significant.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Confidence Interval (CI)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Confounders/Confounding Factors: &lt;/b&gt;Confounders are factors other than the intervention of interest, which may influence the results of a study. They can be both known and unknown. Randomisation seeks to balance these factors between the study groups. Without randomisation it may not be possible to attribute the outcomes to the intervention as this may be due to confounding factors. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Confounders/Confounding Factors</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Content Analysis: &lt;/b&gt;Is a form of data analysis in which the data is searched for the meanings or themes held within it. The researcher develops brief descriptions of the themes or meanings, called codes. Similar codes may, at a later stage in the analysis, be grouped together to form categories.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Content Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Control Event Rate (CER): &lt;/b&gt;The CER is the proportion of patients in a control group in whom the event is observed. Thus, if there are 100 patients in the control group and events are observed in 27, the control event rate is 0.27 or 27%. The CER is often compared to the Experimental Event Rate (EER), which refers to the proportion of patients in an experimental group in whom the event is observed. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Control Event Rate (CER)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Control Group: &lt;/b&gt;The participants in a study who do not receive the drug, test or intervention are referred to as the ‘control group’. In a RCT they receive the usual treatment (or a placebo) while the experimental group receive the treatment being tested.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Control Group</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cost-Benefit Analysis: &lt;/b&gt;A cost benefit analysis assesses whether the cost of an intervention is worth the benefit, by measuring both in the same units (usually monetary)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cost-Benefit Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cost-Effectiveness Analysis: &lt;/b&gt;Is an economic evaluation where costs are expressed in monetary terms (e.g. £s) and benefits are expressed in health gains (life year gains, number of infections present).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cost-Effectiveness Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cost-Utility Analysis: &lt;/b&gt;A cost-utility analysis converts effects into personal preferences (or utilities) and describes how much it costs for some additional quality gain (e.g. cost per additional quality-adjusted life-year, or QALY).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cost-Utility Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cox Proportional-Hazard Model: &lt;/b&gt;A type of multivariate analysis, which can be used when the outcome of interest is time to an event but the survival time for all patients is not available. It is used to either identify a combination of factors that best predicts prognosis in a group of patients or the effects of individual factors.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cox Proportional-Hazard Model</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Credibility: &lt;/b&gt;Is a criterion for evaluating the ‘quality’ or ‘trustworthiness’ of a piece of qualitative research. It refers specifically to the extent to which the researcher’s findings are compatible with the participant’s perceptions.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Credibility</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Critical Appraisal: &lt;/b&gt;Is the process of assessing and interpreting evidence, by systematically considering its validity, results and relevance to your own work.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Critical Appraisal</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Crossover Study Design: &lt;/b&gt;In a cross-over trial two (or more) treatments are tested one after another in the same group of patients.  Generally the order in which each patient receives the treatments is decided by randomisation.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Crossover Study Design</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Cross-Sectional Study: &lt;/b&gt;In a cross-sectional study (Prevalence study), a defined population is observed for the presence or absence of an outcome of interest and possible risk factors at a single point in time or time interval. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Cross-Sectional Study </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Crude Agreement: &lt;/b&gt;Crude agreement is the proportion of cases for which all raters agree.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Crude Agreement</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Data Analysis: &lt;/b&gt;Is a systematic process of working with the data to provide an understanding of the research participant’s experiences. While there are several methods of qualitative analysis that can be used, the aim is always to provide an understanding through the interpretation of the data.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Data Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Decision Analysis: &lt;/b&gt;Decision analysis is the application of explicit, quantitative methods that quantify prognoses, treatment effects and patient values in order to analyse decisions under conditions of uncertainty. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Decision Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Dependability: &lt;/b&gt;Refers to the consistency and accuracy of the research findings.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Dependability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Diagnostic Odds Ratio (DOR): &lt;/b&gt;Is a measure of test accuracy which expresses the overall discrimination of a test. A DOR of 1 represents a useless test; the greater the DOR differs from 1 the more accurate the test.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Diagnostic Odds Ratio (DOR)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Direct Observation: &lt;/b&gt;The process of watching participants directly in the natural setting.  Observation can be participative (i.e. taking part in the activity or non-participative).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Direct Observation</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Discounting: &lt;/b&gt;Is a method of weighting costs and benefits which are spread over time sot that they can be expressed in terms of net present value.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Discounting</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Double-Blind: &lt;/b&gt;An experimental method in which both participants and researchers do not know to what group the patient has been allocated. It is commonly employed in RCT’s.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Double-Blind</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Ecological Survey: &lt;/b&gt;An ecological survey investigates the relationship between exposure to a known or presumed risk factor and a specified outcome for a defined population at a given point in time. Such a study aggregates the data for the population where the effect of exposure to a risk factor is calculated as the average exposure of the group. The main problem with such a study is the potential bias referred to as “Ecological Fallacy”. That is, people in a generally exposed group may themselves not be exposed to the risk; and/or the exposure may not be the only characteristic that distinguishes people in the exposed group from any comparison group.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Ecological Survey</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;EER: &lt;/b&gt;See Experimental Event Rate</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>EER</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Effectiveness: &lt;/b&gt;See clinical effectiveness.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Effectiveness</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Efficacy: &lt;/b&gt;Efficacy refers to whether the treatment can work. That is an efficacious treatment does more good than harm in ideal circumstances. The treatment, however, may not be effective.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Efficacy</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;EMBASE: &lt;/b&gt;Is an electronic database which summarises thousands of pieces of biomedical research literature from hundreds of selected journals.  It is available through most health service libraries  It tends to have a European focus.  </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>EMBASE</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Ethnography: &lt;/b&gt;Is a qualitative research methodology that enables a detailed description of a culture or subculture to be generated. Data collection usually takes place through observation, interviews or the study of existing text. The importance of gathering data in context is stressed, as only in this way can an understanding of social processes and the behaviour that comes from them be developed.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Ethnography</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Event Rate: &lt;/b&gt;The event rate is the proportion of patients in a group experiencing the event of interest. Thus, if out of 100 patients, the event is observed in 33 patients, the event rate is 0.33 or 33%. Control Event Rate (CER) and Experimental Event Rate (EER) are used to refer to the event rate in control and experimental groups of patients respectively. The Patient Expected Event Rate (PEER) refers to the rate of events we would expect in the patient under consideration who received conventional treatment or no treatment. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Event Rate</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Evidence-Based Health Care: &lt;/b&gt;Evidence-based health care extends the application of the principles of Evidence-Based Medicine to all professions associated with health care, including purchasing and management.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Evidence-Based Health Care </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Evidence-Based Medicine: &lt;/b&gt;EBM is the practice of integrating the best available research evidence with clinical expertise and patient values in making decisions about the care of individual patients. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Evidence-Based Medicine</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Experimental Event Rate (EER): &lt;/b&gt;The EER is the proportion of patients in an experimental group who are observed to experience the event of interest. Thus, if out of 100 patients given an experimental treatment, the event is observed in 43, the experimental event rate is 0.43 or 43%. The EER is often compared to the Control Event Rate (CER), which refers to the proportion of patients in a control group in whom the event is observed. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Experimental Event Rate (EER)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Focus Groups: &lt;/b&gt;Are used to elicit the views of a group (usually around six to ten individuals) who have common experiences or interests. They are brought together with the purpose of discussing a particular subject, under the guidance of a facilitator.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Focus Groups</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Funnel Plot: &lt;/b&gt;A graph in which the results of studies are plotted that is sometimes used to assess publication bias.  A symmetrical plot (that looks like an inverted funnel) reassures the reader that the smaller negative studies are not missing.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Funnel Plot</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Gold Standard: &lt;/b&gt;This is the accepted reference standard or diagnostic test for a particular illness.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Gold Standard</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Grounded Theory: &lt;/b&gt;Is an approach to the collection and analysis of qualitative data. The overall aim of grounded theory is to generate a theory that is ‘grounded in’ or formed from the data. This contrasts with other approaches that stop at the point of describing the participants’ experiences.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Grounded Theory</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Hawthorne Effect: &lt;/b&gt;Psychological response in which subjects change their behaviour simply because they are subjects in a study, not because of the research treatment.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Hawthorne Effect</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Heterogeneity: &lt;/b&gt;Studies in a systematic review are said to be heterogeneous if they differ in some way that could lead to them having different results e.g. the study design, the period or country where they were conducted, the intervention used etc. In meta-analysis, heterogeneity occurs when there is more variation between the study results (in a meta-analysis) than would be expected by chance alone. Heterogeneity can be assessed by looking at the odds ratio diagram. The examples show the results of a meta-analysis, which has heterogeneous results (Figure 1).
+&lt;p&gt;&lt;img src=&quot;Heterogeneity1@2x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;&lt;p&gt;In Figure 2 a vertical red line has been drawn to intersect all of the 95% confidence intervals. One of the trials (marked A) is to the left of this line, and the results can therefore be judged heterogeneous. The opposite of heterogeneity is homogeneity.
+&lt;p&gt;&lt;img src=&quot;Heterogeneity2@2x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Heterogeneity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Homogeneity: &lt;/b&gt;Means ‘similarity’.  Studies are said to be homogeneous if their results vary no more that might be expected by the play of chance.  The opposite of homogeneity is heterogeneity.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Homogeneity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Inception Cohort: &lt;/b&gt;Inception cohort is the group of patients who are assembled near the onset of the target disorder</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Inception Cohort</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Incidence: &lt;/b&gt;The incidence is the proportion of new cases of the target disorder in the population at risk during a specified time interval.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Incidence</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Induction: &lt;/b&gt;A logical thought process in which generalisations are developed from specific observations reasoning moves from the particular to the general.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Induction</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Intention-To-Treat Analysis (ITT Analysis): &lt;/b&gt;A method of analysis for randomised controlled trials in which all of the participants are analysed in the groups to which they were allocated. Various methods of imputation (assumptions) can be employed in an intention-to-treat analysis including last observation carried forward (LOCF) and worst case scenario (drop outs in the treatment arm are considered to have relapsed and placebo drop outs are considered to have survived well.)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Intention-To-Treat Analysis (ITT Analysis)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Interviewing: &lt;/b&gt;Is a data collection strategy. Participants are asked to talk about the area under consideration. Interviews can be: ·       focused: a loosely structured interview in which the interviewer guides the respondent through a set of questions using a topic guide. ·       unstructured: the researcher asks the respondent a general question regarding the area of interest and allows them to tell their own story. ·       semi-structured: the interviewer has a more focused agenda than in an unstructured approach. Questions are phrased to allow the participants to tell the story in their own way and an interview guide is used to ensure information is gathered on areas of interest to the researcher. ·       structured: an interview in which the questions are pre-determined and asked to all subjects</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Interviewing</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Iteration (an Iterative Process): &lt;/b&gt;Refers to the process of repeatedly returning to the source of the emerging meanings. This is to ensure that the ideas and understandings being generated are truly coming from the data.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Iteration (an Iterative Process)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Kaplan-Meier Curve: &lt;/b&gt;A survival curve used when not all survival times are known.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Kaplan-Meier Curve</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Kappa (K): &lt;/b&gt;Is an index of agreement &quot;corrected&quot; for the fact that raters will agree with each other a certain proportion of the time just by chance.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Kappa (K)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Likelihood Ratio for a Negative Test Result: &lt;/b&gt;The likelihood ratio for a negative test result is the likelihood or odds that a negative test comes from a person with the disorder rather than one without the disorder. LR- smaller than 0.1 are good.
+&lt;p&gt;&lt;img src=&quot;LRNeg@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Likelihood Ratio for a Negative Test Result</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;LikelihoodRratio for a Positive Test Result: &lt;/b&gt;The likelihood ratio for a positive test result is the likelihood or odds that a positive test comes from a person with the disorder rather than one without the disorder. LR+ greater than 10 are good.
+&lt;p&gt;&lt;img src=&quot;LRPos@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>LikelihoodRratio for a Positive Test Result</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Marginal (Incremental): &lt;/b&gt;Costs and benefits are the costs/benefits of expansion or contaction of a service as distinct from the total or average costs/benefits.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Marginal (Incremental)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Mean: &lt;/b&gt;The average calculated as the sum of all values divided by the number of values.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Mean</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Measurement Bias: &lt;/b&gt;Results are dependent on how the outcomes of interest are measured. Problems may arise if different standards are applied to the different study groups (see: Blinding). </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Measurement Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Median: &lt;/b&gt;For a set of values arranged in order of magnitude the median is the middle value for an odd number of values and the average of the two middle values for an even number of values.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Median</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;MEDLINE: &lt;/b&gt;Is an electronic database which summarises thousands of pieces of biomedical research literature from hundreds of selected journals.  It is available through most health service libraries and the internet.  It tends to have a North American focus.  </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>MEDLINE</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Meta-Analysis: &lt;/b&gt;Is a statistical technique which summarises the results of several studies into a single estimate, giving more weight to results from larger studies.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Meta-Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Mode: &lt;/b&gt;For a set of values the mode is the value that occurs most often.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Mode</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Multivariate Analysis: &lt;/b&gt;Multivariate analysis refers to any type of analysis that involves the construction of a mathematical model to describe most efficiently the association between exposure and disease while controlling for a number of confounding factors simultaneously.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Multivariate Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Natural Setting: &lt;/b&gt;Is the normal environment for the research participants for the issues that are being researched.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Natural Setting</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Negative Predictive Value: &lt;/b&gt;The negative predictive value is the proportion of people who score negative on the test who actually do not have the disorder.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Negative Predictive Value </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;NHSEED (National Health Service Economic Evaluation Database): &lt;/b&gt;Is a database that contains economic evaluations (www.york.ac.uk/inst/crd/welcome.htm).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>NHSEED (National Health Service Economic Evaluation Database)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;N-of-1 Trials: &lt;/b&gt;In N-of-1 trials, the patient undergoes pairs of treatment periods organised so that one period involves the use of the experimental treatment and one period involves the use of an alternate or placebo therapy. The patients and physician are blinded, if possible, and outcomes are monitored. Treatment periods are replicated until the clinician and patient are convinced that the treatments are either definitely different or not different. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>N-of-1 Trials</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Null Hypothesis: &lt;/b&gt;The null hypothesis states that the results observed in a study, experiment, or test are no different from what might have occurred as a result of chance alone i.e. there is no difference between groups or no association between risk indicator and outcome variables.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Null Hypothesis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Number Needed to Harm (NNH): &lt;/b&gt;The NNH is the number of patients who, if they receive the experimental treatment, would lead to 1 additional person being harmed compared with patients who receive the control treatment.
+&lt;p&gt;&lt;img src=&quot;NNH@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Number Needed to Harm (NNH)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Number Needed to Treat (NNT): &lt;/b&gt;The NNT is the number of patients that need to be treated to prevent one additional adverse outcome. This is the inverse of the absolute risk reduction.
+&lt;p&gt;&lt;img src=&quot;NNT@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;&lt;br&gt;&lt;a href=&quot;NNTCalc&quot;&gt;Do you need to calculate NNT?&lt;/a&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Number Needed to Treat (NNT)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Observation: &lt;/b&gt;Is a strategy for data collection involving the watching of participants in a natural setting.  Observation can be participative (the researcher takes part in the activity) or non-participative (the researcher watches from the outside).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Observation</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Odds: &lt;/b&gt;Odds are the ratio of the number of people who experience the outcome of interest compared to the number who do not. If the event rate for a disease is 0.1 (10%), its non-event rate is 0.9 and therefore its odds are 1:9 or 0.111. (Another way of thinking about odds: if there are ten horses in a race and you place a bet on one of the horses, what are the odds that your horse would win?)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Odds </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Odds Ratio (OR): &lt;/b&gt;The odds ratio is the odds of having the target disorder (or event) in the experimental group relative to the odds of having the target disorder (or event) in the control group (in cohort studies, systematic reviews), [NofT in theses cases] is one measure of a treatment’s clinical effectiveness.  If it is equal to 1, then the effects of the treatment are no different from those of the control treatment.  If the OR is greater (or less) than 1, then the effects of the treatment are more (or less) than those of the control treatment.  Note that the effects being measured may be adverse (e.g. death, disability) or desirable (e.g. stopping smoking). In case-control studies: OR is the odds in favour of being exposed in subjects with the target disorder divided by the odds in favour of being exposed in control subjects i.e. without the target disorder [NofT: borrar: (in case-control studies)].</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Odds Ratio (OR)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Opportunity Cost: &lt;/b&gt;Is when resources are used for a particular beneficial activity, this inevitably involves a sacrifice (or opportunity cost) as the opportunity is lost to use the same resources for other beneficial activities.  Economists measure costs in terms of these benefits foregone.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Opportunity Cost</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Overview: &lt;/b&gt;An overview is a systematic review of the medical literature on a specific topic.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Overview</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;P Value: &lt;/b&gt;Is the probability that an observed difference could have occurred by chance.  The convention is to accept an observed difference as “real” if the likelihood that it due to chance is less than 1 in 20 (which is when the p value is less than 0.05).  A p value of less than 0.05 is said to be &apos;statistically significant&apos;.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>P Value</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Patient Expected Event Rate (PEER): &lt;/b&gt;The PEER refers to the rate of events that would be expected in a patient who received no treatment or conventional treatment.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Patient Expected Event Rate (PEER)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Placebo Therapy: &lt;/b&gt;Is an inactive treatment often given to controls in trials.  The placebo is delivered in a form which is apparently identical to the active treatment being tested in the trial, in order to eliminate psychological effects on the outcome.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Placebo Therapy</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Population: &lt;/b&gt;The population is the group of people who satisfy the study’s inclusion criteria.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Population</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Positive Predictive Value: &lt;/b&gt;The positive predictive value is the proportion of people who score positive on the test who actually have the disorder.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Positive Predictive Value</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Post-Test Odds: &lt;/b&gt;This is the odds that a subject will have the disorder after the test is carried out.
+&lt;p&gt;&lt;img src=&quot;PostOdds@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Post-Test Odds</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Post-Test Probability: &lt;/b&gt;This is the probability that the subject will have the target disorder after the test. 
+&lt;p&gt;&lt;img src=&quot;PostPr@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;&lt;br&gt;&lt;a href=&quot;DiagCalc&quot;&gt;Do you need to calculate Post-Test Pr?&lt;/a&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Post-Test Probability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Pre-Test Odds: &lt;/b&gt;This is the odds that a subject will have the disorder before the test. 
+&lt;p&gt;&lt;img src=&quot;PreOdds@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Pre-Test Odds</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Pre-test Probability: &lt;/b&gt;This is the probability that the patient will have the disorder before the test i.e. the proportion of people with the target disorder in the population at risk. For a screening test this will be the same as the prevalence.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Pre-test Probability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Prevalence: &lt;/b&gt;Prevalence is the proportion of people in the sample who have the disorder at a given time (according to the diagnostic [gold] standard).</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Prevalence</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Probability: &lt;/b&gt;The likelihood that a particular event will occur.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Probability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Publication Bias: &lt;/b&gt;Publication bias is the tendency of investigators, reviewers and editors to differentially submit or accept manuscripts for publication on the basis of the direction or strength of the study findings. Most commonly studies with positive results are submitted and accepted for publication while negative studies (or studies which find no difference) fail to appear in the scientific literature.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Publication Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Q*: &lt;/b&gt;Is a value which attempts to indicate whether a given summary ROC curve (see below) indicates good or bad test accuracy. It is the point on the sROC curve where sensitivity and specificity are equal. A Q* value of 1 would indicate a perfect test.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Q* </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;QADAS: &lt;/b&gt;Stands for Quality Assessment of Studies of Diagnostic Accuracy included in Systematic Reviews. It is a framework for assessing the validity of included studies, equivalent to the Jadad score for systematic reviews of RCTs. See http://biomedcentral.com/1471-2288/3/25</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>QADAS</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;QALYs: &lt;/b&gt;Standas for Quality Adjusted Life Years. Is a measure that incorporates both health status and length of life into a single measure.  A QALY of 0 is death and 1 is one year of full health.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>QALYs</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;QUADAS: &lt;/b&gt;See QADAS.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>QUADAS</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Qualitative Research: &lt;/b&gt;Is an approach to gaining an understanding of how people make sense of and interpret the experiences that they have. The focus is on understanding from the perspective of the individual (rather than the researcher) and on carrying out the enquiry in the culture or natural setting of the individual.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Qualitative Research</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Randomisation: &lt;/b&gt;Random allocation means that all participants have the same chance of being assigned to each of the study groups. Therefore, allocation is not determined by the investigators, the clinicians, or the study participants. It is a method which is analagous to tossing a coin to assign patients to treatment group.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Randomisation</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Randomised Controlled Trial (RCT): &lt;/b&gt;An RCT is a trial in which a group of patients is randomised to either an experimental group (or groups) or a control group. The process of randomisation seeks to equalise all possible prognostic factors, known and unknown, between the groups, that is to reduce the risk of the results being due to confounding factors. It should be noted that not all studies described as randomised have indeed been truly randomised (e.g. alternation.)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Randomised Controlled Trial (RCT) </string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;RBI: &lt;/b&gt;See Relative benefit increase</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>RBI</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Recall Bias: &lt;/b&gt;The recollection of exposure may differ between cases and controls especially if cases are more thoroughly questioned.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Recall Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Receiver Operator Characteristic Curve (ROC Curve): &lt;/b&gt;A graph used when a test can have different cut-off values (“thresholds”) to define positive and negative results. Traditionally sensitivity is plotted on the vertical axis and 1-specificity on the horizontal one. One point is used to represent the sensitivity and specificity pair for each threshold. The points are joined to create a curve; the closer the curve is to the left and the top of the graph, the better the accuracy.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Receiver Operator Characteristic Curve (ROC Curve)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Reference Standard: &lt;/b&gt;Is the best method for identifying the presence of a condition. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Reference Standard</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Reflexivity: &lt;/b&gt;Is the open acknowledgement by the researcher of the central role they play in the research process. A reflexive approach considers and makes explicit the effect the researcher may have had on the research findings.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Reflexivity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Relative Benefit Increase (RBI): &lt;/b&gt;The proportion of good events that would have occurred in the control group that are made more likely by the intervention. 
+&lt;p&gt;&lt;img src=&quot;RBI@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Relative Benefit Increase (RBI)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Relative Risk Increase (RRI): &lt;/b&gt;The proportion of adverse events that are made more likely by the intervention. 
+&lt;p&gt;&lt;img src=&quot;RRI@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Relative Risk Increase (RRI)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Relative Risk Reduction (RRR): &lt;/b&gt;The proportion of adverse events that would have occurred in the control group that are avoided by the intervention.
+&lt;p&gt;&lt;img src=&quot;RRR@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Relative Risk Reduction (RRR)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Repeatability: &lt;/b&gt;Assesses the ability of a test to give the same answer on the same specimen presented at different times.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Repeatability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Research Question: &lt;/b&gt;Defines the reason for the research. It describes the area of the study and what the researchers want to learn about it. For test accuracy the population, test and reference standard need to be defined.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Research Question</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Review Bias: &lt;/b&gt;Is bias in the assessment of test accuracy arising from the results of the reference standard influencing the interpretation of the test of interest, and sometimes vice versa too </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Review Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Review: &lt;/b&gt;Is any summary of the literature.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Review</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Risk Ratio (RR): &lt;/b&gt;The ratio of risk of the outcome of interest in the treated group (EER) to the risk in the control group (CER). It is used in randomised trials and cohort studies.&lt;p&gt;&lt;img src=&quot;RR@3x.png&quot; style=&quot;margin:auto;display:block;&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Risk Ratio (RR)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;RRI: &lt;/b&gt;See Relative risk increase.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>RRI</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;RRR: &lt;/b&gt;See Relative risk reduction</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>RRR</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sample: &lt;/b&gt;The sample is a subset of the population who both satisfy the inclusion criteria and enter the trial.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Sample</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sample Size: &lt;/b&gt;This is the number of participants in a trial.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Sample Size</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sampling: &lt;/b&gt;Is the process of selecting participants to take part in the research on the basis that they can provide detailed information that is relevant to the enquiry. ·       purposive sampling is the selection of participants who have knowledge or experience of the area being investigated. ·       theoretical sampling is a sampling strategy in which the selection of participants is guided by the ideas that are emerging from the data analysis.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Sampling</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Saturation: &lt;/b&gt;Saturation of data refers to the point at which no further themes are generated when data from more participants are included in the analysis. The sampling process can be considered to be complete at this point.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Saturation</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Selection Bias: &lt;/b&gt;This occurs when the outcomes of a trial are affected by systematic differences in the way in which individuals are accepted or rejected for a trial, or in the way in which the interventions are assigned to individuals once they have been accepted into a trial. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Selection Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sensitivity Analysis: &lt;/b&gt;Is a technique which deals with uncertainty due to deficiencies in available data by substituting alternative assumptions, estimates and possibilities into the appraisal to determine whether the conclusions are robust or changed by the substitution.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Sensitivity Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Sensitivity: &lt;/b&gt;Is a measure of test accuracy showing how good the test is when the disease is present. The nearer the value to 1.0 or 100% the better the test in this respect.
+&lt;p&gt;&lt;img src=&quot;Sensi@3x.png&quot; style=&quot;width:100%&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Sensitivity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;SnNout: &lt;/b&gt;When a sign/test has a high sensitivity, a Negative result rules out the diagnosis. As Sensitivity increases towards 100%, the false negatives decrease towards 0% and Negative predictive value increases towards 100%.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>SnNout</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Specificity: &lt;/b&gt;Is a measure of test accuracy showing how good the test is when the disease is absent. The nearer the value to 1.0 or 100% the better the test in this respect.
+&lt;p&gt;&lt;img src=&quot;Speci@3x.png&quot; style=&quot;width:100%&quot;/&gt;</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Specificity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Spectrum Bias: &lt;/b&gt;Is where variation in the nature of the population, especially the mixture of severity of disease, leads to variation in the assessment of test accuracy</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Spectrum Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;SpPin: &lt;/b&gt;When a sign/test has a high specificity, a Positive result rules in the diagnosis. As Specificity increases towards 100%, the false positives decrease towards 0% and positive predictive value increases toward 100%.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>SpPin</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Standard Deviation (SD): &lt;/b&gt;Is a measure of the variability between individuals with respect to the measurement under consideration.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Standard Deviation (SD)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Standard Error (of the Mean): &lt;/b&gt;The Standard Error (SE) is a measure of the uncertainty in the sample statistic. The SE measures the variability of the mean of the sample as an estimate of the true value of the population mean. Therefore, the larger the sample size, the smaller the standard error of the mean.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Standard Error (of the Mean)</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Statistical Power: &lt;/b&gt;Is the probability of detecting a difference between two groups when one truly exists. It is usually given a minimum value of 80% (That means there is a 20% chance of a Type II error). Statistical Power and the effect size of interest are taken into account when calculating sample size.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Statistical Power</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Statistical Significance: &lt;/b&gt;The statistical significance of a result is an estimated measure of the degree to which it is likely to be true and not due to chance. The threshold for statistical significance is generally accepted as a p-value of less than 0.05. (see: p-value)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Statistical Significance</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Stratification: &lt;/b&gt;Stratification or stratified randomisation is a method for controlling for confounding factors in an RCT. By this method, the study participants are divided into homogeneous categories or “strata” where they all share the same characteristic of interest - the potentially confounding variable e.g. gender, age and diagnosis. The process of randomisation occurs within each “strata” and the final study arms are the product of each separate randomisation. For instance if age was the potentially confounding variable in a study, the participants could be divided into age groups (e.g. 20 – 40, 41 – 60, 61 and over) and randomised within each age group. The final study arms would be composed of participants from each of these separate randomisations and there would be an equal number of patients of each age group in each of the study arms. Separate analyses could be conducted in each “strata” as they had been randomised separately. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Stratification</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Summary ROC Curve: &lt;/b&gt;See Summary ROC space</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Summary ROC Curve</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Summary ROC Space: &lt;/b&gt;Stands for Summary Receiver Operating Characteristics space. It is an important way of presenting the results of all the included studies in a systematic review of test accuracy. The labelling of the graph is the same as for the ROC curve (see above). Each point represents the sensitivity and specificity pair for an individual included study. Meta-analysis in a systematic review of test accuracy tries to identify the most closely fitting curve through the points. This is the sROC curve</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Summary ROC Space</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Supplier Included Demand: &lt;/b&gt;Occurs when the supplier brings about a level of consumption different from that which would have occurred if a fully informed consume had been able to choose freely.  This phenomenon is more likely to occur when the supplier has more information than the consumer about a product or service.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Supplier Included Demand</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Survival Analysis: &lt;/b&gt;Survival analysis is a statistical procedure for estimating survival (prognosis) in a population under study.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Survival Analysis</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Survival Curve: &lt;/b&gt;A survival curve is a graphical representation of percentage survival (without event) against time to the event.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Survival Curve</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Systematic Review: &lt;/b&gt;Is a review in which evidence on a topic has been systematically identified, appraised and summarised according to predetermined criteria</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Systematic Review</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Test Accuracy Study: &lt;/b&gt;There is no special name for these tests. The most common study method is to obtain the results from a test of interest with those from a reference standard in the same patient. The reference standard is taken to be the true diagnosis, so the following can be distinguished: true positives; false positives; false negatives; and true negatives. The numbers in each category are traditionally presented in a 2x2 table.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Test Accuracy Study</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Tower of Babel Bias: &lt;/b&gt;This is the tendency for studies, which find a treatment effect to be published in English-language journals, whilst opposing studies are published in non-English-language journals. Confining a search to only English-language journals is, therefore, potentially misleading.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Tower of Babel Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Transferability: &lt;/b&gt;Means that the research findings can be transferred from one context to similar situations or participants. Also referred to as generalisability or external validity.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Transferability</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Triangulation: &lt;/b&gt;Is a process by which the area under investigation is investigated from different (two or more) perspectives.  These can include two or more methods, sample groups or investigators. Triangulation can be used i) to ensure that the understanding of an area is as complete as possible by the use of data from one or more different sources or ii) to confirm interpretations through the comparison of different data sources.   </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Triangulation</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Trustworthiness: &lt;/b&gt;Refers to the truth value of a piece of qualitative research. It is a measure of how much the research reflects the reality and the ideas of the participants. It involves consideration of the credibility, dependability and transferability of the work.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Trustworthiness</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Type I Error: &lt;/b&gt;This is the error of rejecting the null hypothesis when it is true, i.e. finding a difference when one truly does not exist. </string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Type I Error</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Type II Error: &lt;/b&gt;This is the error of not rejecting the null hypothesis when it is false, i.e. not finding a difference when a difference truly exists.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Type II Error</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Validity: &lt;/b&gt;This is the degree to which a measurement truly reflects what it claims to measure. When critically appraising a paper it is important to assess whether any known biases could have affected the results (internal validity), a study is valid if the way it is designed and carried out means that the results are unbiased - that is, it gives you a &apos;true&apos; estimate of whatever you are attempting to measure eg test accuracy. External validity, however, is the degree to which the results of a study hold true for other situations other than the one under consideration in the study (see Applicability.)</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Validity</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Verification Bias: &lt;/b&gt;Is bias in the assessment of test accuracy arising from failure to do the reference standard on all patients and specimens, irrespective of the result of the test of interest</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Verification Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Withdrawal Bias: &lt;/b&gt;Patients who withdraw from studies may differ systematically from those who remain.</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Withdrawal Bias</string>
+	</dict>
+	<dict>
+		<key>Definicion</key>
+		<string>&lt;b&gt;Work-Up Bias: &lt;/b&gt;Is the same as verification bias</string>
+		<key>Grupo</key>
+		<string></string>
+		<key>Termino</key>
+		<string>Work-Up Bias</string>
+	</dict>
+</array>
+</plist>

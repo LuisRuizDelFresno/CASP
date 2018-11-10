@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>caspe_logo.png</string>
+	<key>logo2</key>
+	<string></string>
+	<key>pagina1CitameAsi</key>
+	<string>Esta plantilla debería citarse como:
+Cabello, J.B. por CASPe. Plantilla para ayudarte a entender una Revisión Sistemática. En: CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica. Alicante: CASPe; 2005. Cuaderno I. p.13-17.</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>Comentarios generales
+      Hay tres aspectos generales a tener en cuenta cuando se hace la lectura crítica de una revisión:
+      ¿Son válidos esos resultados?
+      ¿Cuáles son los resultados?
+      ¿Son aplicables en tu medio?
+- Las 10 preguntas de las próximas páginas están diseñadas para ayudarte a pensar sistemáticamente sobre estos aspectos. Las dos primeras preguntas son preguntas de eliminación y se pueden responder rápidamente. Sólo si la respuesta es sí en ambas merece la pena continuar con las preguntas restantes.
+- Hay un cierto grado de solapamiento entre algunas de las preguntas.
+ En la mayoría de las preguntas se te pide que respondas sí, no o no sé.
+ En itálica y debajo de las preguntas encontrarás una serie de pistas para contestar a las preguntas. Están pensadas para recordarte por que la pregunta es importante. ¡En los pequeños grupos no suele haber tiempo para responder a todo con detalle!
+- Estas 10 preguntas están adaptadas de: Oxman AD, Guyatt GH et al, Users&apos; Guides to The Medical Literature, VI How to use an overview. (JAMA 1994; 272 (17): 1367-1371)</string>
+	<key>pagina1Marca</key>
+	<string>Este material ha sido desarrollado por el equipo de CASP* en Oxford y adaptado por el equipo CASP español
+* CASP (Critical Appraisal Skills Programme: Programa de habilidades en lectura crítica)￼</string>
+	<key>pagina1Programa</key>
+	<string>PROGRAMA DE LECTURA CRÍTICA CASPe
+Entendiendo la evidencia sobre la eficacia clínica</string>
+	<key>pagina1TipoArt</key>
+	<string>10 preguntas para entender una revisión</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ ¿Son válidos los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. ¿Se hizo la revisión sobre un tema claramente definido?</string>
+					<key>literalC</key>
+					<string>1. ¿Problema bien definido?</string>
+					<key>pista</key>
+					<string> Un tema debe ser definido en términos de
+- La población de estudio.
+- La intervención realizada.
+- Los resultados (&quot;outcomes&quot;)
+considerados.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Pregunta de eliminación</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. ¿Buscaron los autores el tipo de artículos adecuado?</string>
+					<key>literalC</key>
+					<string>2. ¿Búsqueda adecuada?</string>
+					<key>pista</key>
+					<string> El mejor &quot;tipo de estudio&quot; es el que
+- Se dirige a la pregunta objeto de la revisión.
+- Tiene un diseño apropiado para la pregunta.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. ¿Crees que estaban incluidos los estudios importantes y pertinentes?</string>
+					<key>literalC</key>
+					<string>3. ¿Están los Est. importantes?</string>
+					<key>pista</key>
+					<string> Busca
+- Qué bases de datos bibliográficas se han usado.
+- Seguimiento de las referencias.
+- Contacto personal con expertos.
+- Búsqueda de estudios no publicados.
+- Búsqueda de estudios en idiomas
+distintos del inglés.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. ¿Crees que los autores de la revisión han hecho suficiente esfuerzo para valorar la calidad de los estudios incluidos?</string>
+					<key>literalC</key>
+					<string>4. ¿Evaluaron su calidad?</string>
+					<key>pista</key>
+					<string> Los autores necesitan considerar el rigor de los estudios que han identificado. La falta de rigor puede afectar al resultado de los estudios (&quot;No es oro todo lo que reluce&quot; El Mercader de Venecia. Acto II)</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. Si los resultados de los diferentes estudios han sido mezclados para obtener un resultado &quot;combinado&quot;, ¿era razonable hacer eso?</string>
+					<key>literalC</key>
+					<string>5. ¿Resultados combinables?</string>
+					<key>pista</key>
+					<string> Considera si
+- Los resultados de los estudios eran similares entre sí.
+- Los resultados de todos los estudios incluidos están claramente presentados.
+- Están discutidos los motivos de cualquier variación de los resultados.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ ¿Cómo son los resultados?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Lo mismo que en los otrso tipos: que meta datos y los juzge en bien, regular mal</string>
+					<key>literal</key>
+					<string>6. ¿Cuál es el resultado global de la revisión?</string>
+					<key>literalC</key>
+					<string>6. ¿Resultado importante?</string>
+					<key>pista</key>
+					<string> Considera
+- Si tienes claro los resultados últimos de la revisión.
+- ¿Cuáles son? (numéricamente, si es apropiado).
+- ¿Cómo están expresados los resultados? (NNT, odds ratio, etc.).</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Lo mismo que en los otrso tipos: que meta datos y los juzge en suficientemente preciso, regular poco...</string>
+					<key>literal</key>
+					<string>7. ¿Cuál es la precisión del resultado/s?</string>
+					<key>literalC</key>
+					<string>7. ¿Resultados precisos?</string>
+					<key>pista</key>
+					<string>Busca los intervalos de confianza de los estimadores.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ ¿Son los resultados aplicables a tu medio?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. ¿Se pueden aplicar los resultados en tu medio?</string>
+					<key>literalC</key>
+					<string>8. ¿Tu contexto es similar?</string>
+					<key>pista</key>
+					<string> Considera si
+- Los pacientes cubiertos por la revisión pueden ser suficientemente diferentes de los de tu área.
+- Tu medio parece ser muy diferente al del estudio.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. ¿Se han considerado todos los resultados importantes para tomar la decisión?</string>
+					<key>literalC</key>
+					<string>9. ¿Está todo lo Importante?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. ¿Los beneficios merecen la pena frente a los perjuicios y costes?</string>
+					<key>literalC</key>
+					<string>10. ¿Compensa riesgos/costes?</string>
+					<key>pista</key>
+					<string>Aunque no esté planteado explícitamente en la revisión, ¿qué opinas?</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>casp_uk_logo.png</string>
+	<key>logo2</key>
+	<string>logo</string>
+	<key>pagina1CitameAsi</key>
+	<string>©Critical Appraisal Skills Programme (CASP) Cohort Study Checklist 31.05.13</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>How to use this appraisal tool
+Three broad issues need to be considered when appraising a cohort study:
+- Are the results of the trial valid?      (Section A)
+- What are the results?      (Section B)
+- Will the results help locally?      (Section C)
+The 12 questions on the following pages are designed to help you think about these issues systematically.
+The first two questions are screening questions and can be answered quickly. If the answer to both is “yes”, it is worth proceeding with the remainig questions.
+
+There is some degree of overlap between the questions, you are asked to record a “yes”, “no” or “can’t tell” to most of the questions. A number of italicised prompts are given after each question. These are designed to remind you why the question is important. Record your reasons for your answers in the spaces provided.
+
+There will not be time in the small groups to answer them all in detail!</string>
+	<key>pagina1Marca</key>
+	<string>©CASP This work is licensed under the Creative Commons Attribution - NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ www.casp-uk.net</string>
+	<key>pagina1Programa</key>
+	<string></string>
+	<key>pagina1TipoArt</key>
+	<string>12 questions to help you make sense of cohort study</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ Are the results of the study valid?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. Did the study address a clearly focused issue?</string>
+					<key>literalC</key>
+					<string>1. Clearly focused issue?</string>
+					<key>pista</key>
+					<string>A question can be focused in terms of
+- The population studied
+- The risk factors studied
+- The outcomes considered
+- Is it clear whether the study tried to detect a beneficial or harmful effect?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. Was the cohort recruited in an acceptable way?</string>
+					<key>literalC</key>
+					<string>2. Cohort recruitment: Right?</string>
+					<key>pista</key>
+					<string>We are looking for selection bias which might compromise the generalisability of the findings:
+- Was the cohort representative of a defined population?
+- Was there something special about the cohort?
+- Was everybody included who should have been included?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. Was the exposure accurately measured to minimize bias?</string>
+					<key>literalC</key>
+					<string>3. Exposure measure: Right?</string>
+					<key>pista</key>
+					<string>Look for measurement or classification bias:
+- Did they use subjective or objective measurements?
+- Do the measures truly reflect what you want them to (have they been validated)?
+- Were all the subjects classified into exposure groups using the same procedure?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. Was the outcome accurately measured to minimize bias?</string>
+					<key>literalC</key>
+					<string>4. Outcome measure: Right?</string>
+					<key>pista</key>
+					<string>Look for measurement or classification bias:
+- Did they use subjective or objective measurements?
+- Do the measures truly reflect what you want them to (have they been validated)?
+- Has a reliable system been established for detecting all the cases (for measuring disease occurrence)?
+- Were the measurement methods similar in the different groups?
+- Were the subjects and/or the outcome assessor blinded to exposure (does this matter)?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. A. Have the authors identified all important confounding factors? and B: Have they taken account of the confounding factors in the design and/or analysis?</string>
+					<key>literalC</key>
+					<string>5. Control of Confusion Factors?</string>
+					<key>pista</key>
+					<string>- List the ones you think might be important, that the author missed.
+- Look for restriction in design, and techniques e.g. modelling, stratified-, regression-, or sensitivity analysis to correct, control or adjust for confounding factors.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. Was the follow up of subjects complete and long enough?</string>
+					<key>literalC</key>
+					<string>6. Follow up: Right?</string>
+					<key>pista</key>
+					<string>- The good or bad effects should have had long enough to reveal themselves
+- The persons that are lost to follow-up may have different outcomes than those available for assessment
+- In an open or dynamic cohort, was there anything special about the outcome of the people leaving, or the exposure of the people entering the cohort?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ Important results?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>7. What are the results of this study?</string>
+					<key>literalC</key>
+					<string>7. Results: Large?</string>
+					<key>pista</key>
+					<string>What are the bottom line results?
+- Have they reported the rate or the proportion between the exposed/unexposed, the ratio/the rate difference?
+- How strong is the association between exposure and outcome (RR,)?
+- What is the absolute risk reduction (ARR)?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. How precise are the results?</string>
+					<key>literalC</key>
+					<string>8. Results: Precise?</string>
+					<key>pista</key>
+					<string>Look for the range of the confidence intervals, if given.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Imprecisa: ¿se busca una impresión global? ¿se busca si tienen plausibilidad biológica?. En Casos y Controles era una pregunta del apartado resultados. </string>
+					<key>literal</key>
+					<string>9. Do you believe the results?</string>
+					<key>literalC</key>
+					<string>9. Results: Logical?</string>
+					<key>pista</key>
+					<string>- Big effect is hard to ignore!
+- Can it be due to bias, chance or confounding?
+- Are the design and methods of this study sufficiently flawed to make the results unreliable?
+- Consider Bradford Hills criteria (eg time sequence, dose-response gradient, biological plausibility, consistency).</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ Will the results help me locally?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. Can the results be applied to the local population?</string>
+					<key>literalC</key>
+					<string>10. Applicable to your context?</string>
+					<key>pista</key>
+					<string>Consider whether:
+- A cohort study was the appropriate method to answer this question
+- The subjects covered in this study could be sufficiently different from your population to cause concern
+- Your local setting is likely to differ much from that of the study
+- You can quantify the local benefits and harms</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. Do the results of this study fit with other available evidence?</string>
+					<key>literalC</key>
+					<string>11. Coherent with other studies?</string>
+					<key>pista</key>
+					<string>One observational study rarely provides sufficiently robust evidence to recommend changes to clinical practice or within health policy decision making.
+However, for certain questions observational studies provide the only evidence.
+Recommendations from observational studies are always stronger when supported by other evidence.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>12. What are the implications of this study for practice?</string>
+					<key>literalC</key>
+					<string>12. Practical implications</string>
+					<key>pista</key>
+					<string>Consider
+- One observational study rarely provides sufficiently robust evidence to recommend changes to clinical practice or within health policy decision making
+- For certain questions observational studies provide the only evidence
+- Recommendations from observational studies are always stronger when supported by other evidence</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

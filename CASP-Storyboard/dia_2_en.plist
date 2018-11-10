@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logo1</key>
+	<string>casp_uk_logo.png</string>
+	<key>logo2</key>
+	<string>logo</string>
+	<key>pagina1CitameAsi</key>
+	<string>©Critical Appraisal Skills Programme (CASP) Diagnostic Test Study Checklist 31.05.13</string>
+	<key>pagina1ComentariosGenerales</key>
+	<string>How to use this appraisal tool
+Three broad issues need to be considered when appraising a diagnostic test:
+- Are the results of the trial valid?      (Section A)
+- What are the results?      (Section B)
+- Will the results help locally?      (Section C)
+The 12 questions on the following pages are designed to help you think about these issues systematically.
+The first two questions are screening questions and can be answered quickly. If the answer to both is “yes”, it is worth proceeding with the remainig questions.
+
+There is some degree of overlap between the questions, you are asked to record a “yes”, “no” or “can’t tell” to most of the questions. A number of italicised prompts are given after each question. These are designed to remind you why the question is important. Record your reasons for your answers in the spaces provided.
+
+There will not be time in the small groups to answer them all in detail!
+
+The 12 questions are adapted from: Jaesche R, Guyatt GH, Sackett DL, Users’ Guides to the Medical Literature, V1. How to use an article about a diagnostic test. JAMA 1994; 271 (5): 389-391</string>
+	<key>pagina1Marca</key>
+	<string>©CASP This work is licensed under the Creative Commons Attribution - NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ www.casp-uk.net</string>
+	<key>pagina1Programa</key>
+	<string></string>
+	<key>pagina1TipoArt</key>
+	<string>12 questions to help you make sense of a diagnostic test study￼￼</string>
+	<key>recuerde</key>
+	<string></string>
+	<key>preguntas</key>
+	<array>
+		<dict>
+			<key>bloque</key>
+			<string>A/ Are the results of the study valid?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>1. Was there a clear question for the study to address?</string>
+					<key>literalC</key>
+					<string>1. Question clearly defined?</string>
+					<key>pista</key>
+					<string>A question should include information about?
+- The population.
+- The test.
+- The setting.
+- The outcomes.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string>Screening Questions</string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>2. Was there a comparison with an appropriate reference standard?</string>
+					<key>literalC</key>
+					<string>2. Gold standard: Right?</string>
+					<key>pista</key>
+					<string>Is this reference test(s)the best available indicator in the circumstances?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>3. Did all patients get the diagnostic test and the reference standard?</string>
+					<key>literalC</key>
+					<string>3. All patients got both tests?</string>
+					<key>pista</key>
+					<string>Consider
+- Were both received regardless of the results of the test of interest.
+- Check the 2 X 2 table.
+(verification bias)</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>4. Could the results of the test of interest have been influenced by the results of the reference standard?</string>
+					<key>literalC</key>
+					<string>4. Independent test evaluation?</string>
+					<key>pista</key>
+					<string>Consider
+- Was there blinding?
+- Were the tests performed independently
+(Review Bias)</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>5. Is the disease status of the tested population clearly described?</string>
+					<key>literalC</key>
+					<string>5. Tested patients well described?</string>
+					<key>pista</key>
+					<string>Consider
+- Presenting symptoms
+- Disease stage or severity
+- Co-morbidity
+- Differential diagnoses
+(Spectrum Bias).</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>6. Were the methods for performing the test described in sufficient detail?</string>
+					<key>literalC</key>
+					<string>6. Trial test well described?</string>
+					<key>pista</key>
+					<string>- Was a protocol followed?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>B/ If so, what are the results?</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string>Lo mismo de otros diseños, debe calcularlo y juzgarlo</string>
+					<key>literal</key>
+					<string>7. What are the results?</string>
+					<key>literalC</key>
+					<string>7. Large results?</string>
+					<key>pista</key>
+					<string>Consider
+- Are the sensitivity and specificity and/or likelihood ratios presented?
+- Are the results presented in such a way that we can work them out?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>8. How sure are we about these results? Consequences and cost of alternatives performed?</string>
+					<key>literalC</key>
+					<string>8. Precise results?</string>
+					<key>pista</key>
+					<string>Consider
+- Could they have occurred by chance?
+- Are there confidence limits
+- What are they?</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>bloque</key>
+			<string>C/ Will the results help me and my patients/population?
+(consider whether you are primarily interested in the impact on a population or individual level)</string>
+			<key>preguntas</key>
+			<array>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>9. Can the results be applied to your patients/the population of interest?</string>
+					<key>literalC</key>
+					<string>9. Applicable to your context?</string>
+					<key>pista</key>
+					<string>Do you think your patients/population are so different from those in the study that the results cannot be applied? Such as age, sex, ethnicity and spectrum bias.</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>10. Can the test be applied to your patient or population of interest?</string>
+					<key>literalC</key>
+					<string>10. Feasible in your context?</string>
+					<key>pista</key>
+					<string>Consider
+- Resources and opportunity costs
+- Level and availability of expertise required to interpret the tests
+- Current practice and availability of services</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>11. Were all outcomes important to the individual or population considered?</string>
+					<key>literalC</key>
+					<string>11. Important outcomes considered?</string>
+					<key>pista</key>
+					<string>Consider
+- Will the knowledge of the test result improve patient wellbeing?
+- Will the knowledge of the test result lead to a change in patient management?</string>
+				</dict>
+				<dict>
+					<key>caracter</key>
+					<string></string>
+					<key>color</key>
+					<string>whiteColor</string>
+					<key>comentario</key>
+					<string></string>
+					<key>literal</key>
+					<string>12. What would be the impact of using this test on your patients/population?</string>
+					<key>literalC</key>
+					<string>12. Will change your practice?</string>
+					<key>pista</key>
+					<string></string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
